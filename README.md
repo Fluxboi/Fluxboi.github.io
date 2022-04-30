@@ -1,4 +1,6 @@
-## Welcome to GLA's GitHub Pages
+# Opimising 'Life' via Learning about Metabolic Flux and Bioenergetic 
+### SAHUTCHAI INWONGWAN (GLA), DPhil
+#### Scientist  
 
 You can use the [editor on GitHub](https://github.com/Fluxboi/Fluxboi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
