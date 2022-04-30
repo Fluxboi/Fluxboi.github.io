@@ -1,14 +1,17 @@
 # Opimising 'Life' via Learning about Metabolic Flux and Bioenergetic 
-### SAHUTCHAI INWONGWAN (GLA), DPhil
-#### Scientist  
+## SAHUTCHAI INWONGWAN (GLA), DPhil
+### Scientist  
 
-You can use the [editor on GitHub](https://github.com/Fluxboi/Fluxboi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+```
+Sahutchai completed a DPhil (PhD) degree from the Department of Plant Sciences, University of Oxford. His thesis explored the capacities of Euglena metabolic network using metabolic flux analysis techniques. Through years of numerous research programs, he has developed the substantial backgrounds in Molecular biology, Phycology, Microbiology, Biotechnology, Cell biology and Systems biology. He is now working as a research fellow at University College London, where he investigates physiological effects of mito-nuclear incompatibilities in Drosophila.
+```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Skills and experiences
+- Metabolic network modelling and metabolic flux analysis
+- Metabolomic and transcriptomic analysis
+- Gas chromatography–mass spectrometry (GC-MS) and flow cytometry
+- Electron microscopy and fluorescence microscopy 
+- Aquatic Biology fieldwork
 
 ```markdown
 Syntax highlighted code block
