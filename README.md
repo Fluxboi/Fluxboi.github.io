@@ -20,3 +20,8 @@ He investigates physiological effects of mito-nuclear incompatibilities in Droso
 #### Research
 
 ![image](https://user-images.githubusercontent.com/77986547/166148802-3c007cad-c7c6-4a68-8932-6bcd3de69fe4.png)
+
+
+
+![unnamed-5](https://user-images.githubusercontent.com/77986547/166148973-b247c06c-0b85-4042-a590-12fdbff6ca1e.jpg)
+
