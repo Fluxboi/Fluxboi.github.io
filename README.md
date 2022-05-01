@@ -17,3 +17,6 @@ He investigates physiological effects of mito-nuclear incompatibilities in Droso
 - Aquatic Biology fieldwork
 ```
 
+#### Research
+
+![image](https://user-images.githubusercontent.com/77986547/166148802-3c007cad-c7c6-4a68-8932-6bcd3de69fe4.png)
