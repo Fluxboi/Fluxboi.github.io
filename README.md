@@ -27,19 +27,22 @@ He investigates physiological effects of mito-nuclear incompatibilities in Droso
 **Flux Capacitor: How mitochondria modulate metabolic flux and gene expression, 2020 - ongoing**
 Funded by BBSRC, PI: Prof. Nick Lane
 Genetics, Evolution & Environment, Devision of Biosciences, University College London
+
 **Metabolic flux analysis in Euglena gracilis, 2020** 
 Supervisors: Prof. Dr. George Ratcliffe, Dr. Nick Kruger and Dr. Ellis O’Neill
 Department of Plant Sciences, University of Oxford
+
 **Euglena central metabolic pathways and their subcellular locations, 2019**
 Sahutchai Inwongwan, Nicholas J. Kruger, R. George Ratcliffe and Ellis C. O’Neill
 Metabolites 2019, 9(6), 115; https://doi.org/10.3390/metabo9060115
+
 **Interspecific interaction between marine Chrysochromulina spp. and their associated bacteria, 2015**
 Advisor: Prof. Dr. Rose Ann Cattolico, University of Washington
 Funded by Development and Promotion of Science and Technology talents project (DPST)
+
 **Isolation and cultivation of Botryococcus braunii Kützing for hydrocarbon production, 2015**
 Advisor: Asst. Dr. Jeeraporn Pekkoh 
 Funded by Junior Science Talent Project (JSTP), NSTDA
-
 
 #### Contact
 comimg soon...
