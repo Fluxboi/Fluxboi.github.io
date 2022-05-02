@@ -1,6 +1,6 @@
 # METABOLIC & BIOENERGETIC FLUXES
 
-## Investigating to Optimise 'Life' via Metabolic Flux Analysis and Bioenergetics
+## Investigating 'life' via metabolic flux and bioenergetic analysis
 
 ![image](https://user-images.githubusercontent.com/77986547/166149035-60d30a67-26a2-4fab-8b53-5bdbeb3591dc.png) 
 
