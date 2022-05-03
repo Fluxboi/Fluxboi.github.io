@@ -1,8 +1,9 @@
 # METABOLIC & BIOENERGETIC FLUXES
 
 ## Investigating 'life' via metabolic flux and bioenergetic analysis
-
+<p align="center">
 ![image](https://user-images.githubusercontent.com/77986547/166149035-60d30a67-26a2-4fab-8b53-5bdbeb3591dc.png) 
+</p>
 
 ## **SAHUTCHAI INWONGWAN (GLA), DPhil**
 ### Scientist - Biologist - Biochemist
