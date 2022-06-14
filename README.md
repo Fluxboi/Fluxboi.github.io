@@ -5,7 +5,9 @@
 
 ## **SAHUTCHAI INWONGWAN (GLA), DPhil**
 ### Scientist - Biologist - Biochemist
-**Lecturer in Systems Biology, BIOL, CMU, Thailand** 
+
+**Lecturer in Systems Biology, BIOL, CMU, Thailand**
+
 **Honorary Research Fellow, GEE, UCL, UK**
 
 Sahutchai completed a DPhil (PhD) degree from the Department of Plant Sciences, University of Oxford. 
