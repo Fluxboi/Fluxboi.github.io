@@ -5,8 +5,8 @@
 
 ## **SAHUTCHAI INWONGWAN (GLA), DPhil**
 ### Scientist - Biologist - Biochemist
-**Research Fellow, GEE, UCL, UK  
-Lecturer in Systems Biology, Dept BIOL, CMU, Thailand**
+**Lecturer in Systems Biology, BIOL, CMU, Thailand 
+Honorary Research Fellow, GEE, UCL, UK**
 
 Sahutchai completed a DPhil (PhD) degree from the Department of Plant Sciences, University of Oxford. 
 His thesis explored the capacities of Euglena metabolic network using metabolic flux analysis techniques. 
