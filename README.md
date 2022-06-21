@@ -53,13 +53,14 @@ Funded by Junior Science Talent Project (JSTP), NSTDA
 #### Contact
 ```
 SAHUTCHAI INWONGWAN, DPhil
-Research Fellow
-Room 109 Darwin Building
-Department of Genetics, Evolution and Environment
-University College London 
-Gower Street, London
-United Kingdom, WC1E 6BT
-email: s.inwongwan@ucl.ac.uk, sahutchai.sci@gmail.com
+Lecturer in Systems Biology
+Room BB20406
+Department of Biology, Faculty of Science
+Chiang Mai University
+239 Huay Keaw Rd, Tambon Su Thep, Mueang District
+Chiang Mai, Thailand, 50200
+email: sahutchai.inwongwan@cmu.ac.th, s.inwongwan@ucl.ac.uk
+Tel: +66 821972128
 ```
 ![unnamed-5](https://user-images.githubusercontent.com/77986547/166148973-b247c06c-0b85-4042-a590-12fdbff6ca1e.jpg)
 Hugging Gourd, GLA, London, April 2021
