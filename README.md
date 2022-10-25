@@ -1,4 +1,4 @@
-# METABOLIC & BIOENERGETIC FLUXES
+# APPLIED METABOLIC&BIOENERGETIC MODELLING 
 
 ## Investigating 'life' via metabolic flux and bioenergetic analysis
 ![image](https://user-images.githubusercontent.com/77986547/167161108-23827563-6719-44b0-9f51-749c15a92c4b.png)
@@ -12,8 +12,12 @@
 
 Sahutchai completed a DPhil (PhD) degree from the Department of Plant Sciences, University of Oxford. 
 His thesis explored the capacities of Euglena metabolic network using metabolic flux analysis techniques. 
-He is now working as a research fellow at University College London. 
-He investigates physiological effects of mito-nuclear incompatibilities in Drosophila.
+He was working as a research fellow at University College London before moving back to Chiang Mai, Thailand, for his lecturership in Systems biology.
+His current research works include: 
+- Investigating physiological effects of mito-nuclear incompatibilities in Drosophila
+- Metabolic modelling of Euglena for industrial applications
+- Astrobiochemistry, modeliing the optimal network fro extraterrestrial conditions.  
+- Metabolic analysis in cancer cells
 
 ---
 
