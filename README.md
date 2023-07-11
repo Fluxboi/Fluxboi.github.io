@@ -32,8 +32,24 @@ His current research works include:
 ---
 
 #### Research
+**Unlocking the potential of *Euglena gracilis* as a host for production of shikimate-derived products through integrated metabolic modelling, 2023 - ongoing**
+Funded by National Research Council of Thailand, PI: Sahutchai Inwongwan 
+Department of Biology, Faculty of Science, Chiang Mai University
+
+**Exploring the metabolic potential and applications of *Williamsia marianensis* using genome-scale metabolic model, 2023 - ongoing**
+Funded by Chiang Mai University, PI: Sahutchai Inwongwan 
+Department of Biology, Faculty of Science, Chiang Mai University
+
+***Harmonising protocols to measure *Drosophila* respiratory function in mitochondrial preparations, 2023**
+Enrique Rodríguez, Stefano Bettinazzi, Sahutchai Inwongwan, M. Florencia Camus, Nick Lane
+MitoFit Preprints, 2023.4 https://doi.org/10.26124/mitofit:2023-0004
+
+***Metabolic network reconstruction of *Euglena gracilis*: Current state, challenges, and applications, 2023**
+INWONGWAN, S., PEKKOH, J., PUMAS, C. & SATTAYAWAT, P
+Frontiers in Microbiology, https://doi.org/10.3389/fmicb.2023.1143770
+
 **Flux Capacitor: How mitochondria modulate metabolic flux and gene expression, 2020 - ongoing**
-Funded by BBSRC, PI: Prof. Nick Lane
+Funded by BBSRC, UK, PI: Prof. Nick Lane
 Genetics, Evolution & Environment, Devision of Biosciences, University College London
 
 **Metabolic flux analysis in *Euglena gracilis*, 2020** 
@@ -58,7 +74,7 @@ Funded by Junior Science Talent Project (JSTP), NSTDA
 ```
 SAHUTCHAI INWONGWAN, DPhil
 Lecturer in Systems Biology
-Room BB20406
+Room BB2406
 Department of Biology, Faculty of Science
 Chiang Mai University
 239 Huay Keaw Rd, Tambon Su Thep, Mueang District
