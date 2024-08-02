@@ -1,5 +1,4 @@
-
-# APPLIED METABOLIC & BIOENERGETIC MODELLING 
+# APPLIED METABOLIC&BIOENERGETIC MODELLING 
   
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
 
