@@ -117,30 +117,29 @@ Funded by Junior Science Talent Project (JSTP), NSTDA
 ---
 
 #### Experiences 
-o	Research Fellow, University College London, Study the effect of mito-nuclear incompatibility in Drosophila, UK, 2020-2022
+**o	Research Fellow**, University College London, Study the effect of mito-nuclear incompatibility in Drosophila, UK, 2020-2022
 
-o	Internship, National Science Research and Innovation Policy Council, Developing BCG Economy Model, Thailand, 2019
+**o	Policy development intern**, National Science Research and Innovation Policy Council, Developing BCG Economy Model, Thailand, 2019
 
-o	Biological practice demonstrator, University of Oxford UK, 2017-2020
+**o	Biological practice demonstrator**, University of Oxford UK, 2017-2020
 
-o	Research internship, Biological Modelling Laboratory, KMUTT, Train for systems biology, metabolic network analysis and bioinformatics skills, Thailand, 2016
+**o	Research internship**, Biological Modelling Laboratory, KMUTT, Train for systems biology, metabolic network analysis and bioinformatics skills, Thailand, 2016
 
-o	Research internship, Cattolico Laboratory, University of Washington, Study interaction of bacteria and algae for growth and lipid production, USA, 2014
+**o	Research internship**, Cattolico Laboratory, University of Washington, Study interaction of bacteria and algae for growth and lipid production, USA, 2014
 
-o	JENESYS 2.0 program, science and technology, Government of Japan, Japan, 2014
+**o	JENESYS 2.0 program**, science and technology, Government of Japan, Japan, 2014
 
-o	Visiting Israel on the topic of precision agriculture, Academic collaboration between Israel and Thailand, Funded by : National Science and Technology Development (NSTDA), Israel, 2013
+**o	Visiting Israel on the topic of precision agriculture**, Academic collaboration between Israel and Thailand, Funded by : National Science and Technology Development (NSTDA), Israel, 2013
 
-o	Visiting Shanghai on the topic of agricultural biotechnology, Visit universities and research institutes in Shanghai for research collaborations between research institutes in Thailand and Shanghai, Funded by : Ministry of Foreign Affairs, Kingdom of Thailand, China, 2012
+**o	Visiting Shanghai on the topic of agricultural biotechnology**, Visit universities and research institutes in Shanghai for research collaborations between research institutes in Thailand and Shanghai, Funded by : Ministry of Foreign Affairs, Kingdom of Thailand, China, 2012
 
-o	Internship, National Center for Genetic Engineering and Biotechnology, Study gene expression in cassava root, Thailand, 2012
+**o	Internship**, National Center for Genetic Engineering and Biotechnology, Study gene expression in cassava root, Thailand, 2012
 
 ---
 
 #### Contact
 ```
 SAHUTCHAI INWONGWAN, DPhil
-sahutchai.inwongwan@cmu.ac.th
 Lecturer in Systems Biology
 Room BB2406
 Department of Biology, Faculty of Science
