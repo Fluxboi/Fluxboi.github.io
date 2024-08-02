@@ -1,15 +1,23 @@
-# APPLIED METABOLIC&BIOENERGETIC MODELLING 
+<div align="center">
 
+# APPLIED METABOLIC & BIOENERGETIC MODELLING 
+  
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
+
 ![image](https://github.com/user-attachments/assets/e78b879b-d5a5-45ad-8fd0-93da5f03adf6)
 
+</div>
 
-## **SAHUTCHAI INWONGWAN (GLA), DPhil**
+# **SAHUTCHAI INWONGWAN (GLA), DPhil**
+
 ### Scientist - Biologist - Biochemist
 
 **Lecturer in Systems Biology, BIOL, CMU, Thailand**
 
 **Honorary Research Fellow, GEE, UCL, UK**
+
+
+
 
 ![image](https://github.com/user-attachments/assets/a23016b5-7c72-40ff-8da7-14a9383031c9)
 
