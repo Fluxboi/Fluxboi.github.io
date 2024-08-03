@@ -24,10 +24,19 @@ He was working as a research fellow at University College London before moving b
 ---
 
 His current research works include: 
+
 #### - Metabolic modelling and optimisation of Euglena gracilis for sustainable industrial and advanced applications 
-#### - Astrobiochemistry, modelling the optimal network for extraterrestrial conditions and its application in Bioinnovation for space
+
+#### - Astrobiochemistry, modelling the optimal network for extraterrestrial conditions
+
 #### - Investigating multi-layer physiological effects of mito-nuclear incompatibilities in Drosophila
+
+#### - Astrobioinovation, physiology of various organisms in space analog conditions and its application
+
 #### - Multi-omics analysis in PM2.5 exposed lung cancer cells
+
+#### - Metabolic modelling of honey bee gut microbime 
+
 
 ![image](https://github.com/user-attachments/assets/9f647cad-0062-4530-8f44-70bfd6655b7b)
 
@@ -48,7 +57,7 @@ His current research works include:
 Funded by National Research Council of Thailand (Fundamental Fund), PI: Sahutchai Inwongwan 
 Department of Biology, Faculty of Science, Chiang Mai University
 
-**Developing metabolic model of Euglena for beta-glucan production optimisation, 2023 - ongoing***
+**Developing metabolic model of Euglena for beta-glucan production optimisation, 2023 - ongoing**
 Funded by National Research Council of Thailand (Fundamental Fund), PI: Sahutchai Inwongwan 
 Department of Biology, Faculty of Science, Chiang Mai University
 
