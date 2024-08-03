@@ -24,11 +24,10 @@ He was working as a research fellow at University College London before moving b
 ---
 
 His current research works include: 
-- Metabolic modelling of Euglena for industrial applications
-- Astrobiochemistry, modelling the optimal network for extraterrestrial conditions
-- Investigating physiological effects of mito-nuclear incompatibilities in Drosophila 
-- Metabolic analysis in cancer cells
-- Bioinnovation for space
+#### - Metabolic modelling and optimisation of Euglena gracilis for sustainable industrial and advanced applications 
+#### - Astrobiochemistry, modelling the optimal network for extraterrestrial conditions and its application in Bioinnovation for space
+#### - Investigating multi-layer physiological effects of mito-nuclear incompatibilities in Drosophila
+#### - Multi-omics analysis in PM2.5 exposed lung cancer cells
 
 ![image](https://github.com/user-attachments/assets/9f647cad-0062-4530-8f44-70bfd6655b7b)
 
