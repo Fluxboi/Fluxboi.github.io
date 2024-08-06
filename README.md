@@ -74,11 +74,11 @@ Funded by Chiang Mai University, PI: Sahutchai Inwongwan
 Department of Biology, Faculty of Science, Chiang Mai University
 
 **Microalgae growth-promoting bacteria for cultivation strategies: Recent updates and progress, 2024** 
-Pathom-aree, W., Sattayawat, P., Inwongwan, S., Cheirsilp, B., Liewtrakula, N., Maneechote, W., Rangseekaew, P., Ahmad, F., Mehmood, M. A., Gao, F. & Srinuanpan, S.
+Pathom-aree, W., Sattayawat, P., Inwongwan, S., Cheirsilp, B., Liewtrakula, N., Maneechote, W., Rangseekaew, P., Ahmad, F., Mehmood, M. A., Gao, F. & Srinuanpan, S
 Microbiological Research, https://doi.org/10.1016/j.micres.2024.127813
 
 **Engineering Gut Symbionts: A Way to Promote Bee Growth?, 2024** 
-Sattayawat P. ,  Inwongwan S. , Noirungsee N. , Li, J. , Guo, J. , Disayathanoowat, T.
+Sattayawat P. ,  Inwongwan S. , Noirungsee N. , Li, J. , Guo, J. , Disayathanoowat, T
 Insects, https://doi.org/10.3390/insects15050369
 
 **Distinct fungal microbiomes of two Thai commercial stingless bee species, Lepidotrigona terminata and Tetragonula pagdeni suggest a possible niche separation in a shared habitat, 2024**
@@ -86,7 +86,7 @@ Castillo D.C. , Sinpoo C. , Phokasem P. , Yongsawas R. , Sansupa C. , Attasopa K
 Frontiers in Cellular and Infection Microbiology, https://doi.org/10.3389/fcimb.2024.1367010
 
 **Genome‐scale metabolic modelling of extremophiles and its applications in astrobiological environments, 2024**
-Noirungsee, N., Changkhong, S., Phinyo, K., Suwannajak, C., Tanakul, N. and Inwongwan, S., 2024.  
+Noirungsee, N., Changkhong, S., Phinyo, K., Suwannajak, C., Tanakul, N. and Inwongwan, S  
 Environmental Microbiology Reports, https://doi.org/10.1111/1758-2229.13231
 
 **Mitonuclear interactions modulate nutritional preference, 2024** 
