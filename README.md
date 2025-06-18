@@ -1,6 +1,6 @@
 # APPLIED METABOLIC&BIOENERGETIC MODELLING 
 
-
+<p align="center">
   <img width="550" height="550" src="https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011">
 </p>
 
@@ -13,14 +13,17 @@
 <p align="center">
 # **SAHUTCHAI INWONGWAN (GLA), DPhil**
 
+<p align="center">
 ### Scientist - Biologist - Biochemist
-
-**Lecturer in Systems Biology, BIOL, CMU, Thailand**
-
-**Honorary Research Fellow, GEE, UCL, UK**
 </p>
 
+<p align="center">
+**Lecturer in Systems Biology, BIOL, CMU, Thailand**
+</p>
 
+<p align="center">
+**Honorary Research Fellow, GEE, UCL, UK**
+</p>
 
 ![image](https://github.com/user-attachments/assets/a23016b5-7c72-40ff-8da7-14a9383031c9)
 
