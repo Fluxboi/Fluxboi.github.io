@@ -1,5 +1,7 @@
 # APPLIED METABOLIC&BIOENERGETIC MODELLING 
-  
+
+![image (2)](https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011)
+
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
 
 ![image](https://github.com/user-attachments/assets/e78b879b-d5a5-45ad-8fd0-93da5f03adf6)
@@ -23,9 +25,11 @@ He was working as a research fellow at University College London before moving b
 
 ---
 
-His current research works include: 
+Our current research focuses include: 
 
-#### - Metabolic modelling and optimisation of Euglena gracilis for sustainable industrial and advanced applications 
+#### - Metabolic modelling and network optimisation of Euglena gracilis for sustainable industrial and advanced applications 
+
+#### - Physicochemical and metabolic processes in fermented beverage
 
 #### - Astrobiochemistry, modelling the optimal network for extraterrestrial conditions
 
@@ -53,6 +57,27 @@ His current research works include:
 ---
 
 #### Research
+
+**<li class="Faculty Research Profil">
+          <a href="https://rsc.science.cmu.ac.th/INWONGWAN/SAHUTCHAI/">Research</a>
+        </li>**
+
+**Ethanol-driven mixotrophic cultivation enhances biomass production and CO2 capture in Euglena gracilis for sustainable bioresource utilisation, 2025**
+Inwongwan, S., Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
+Algal Research, 104148. https://doi.org/10.1016/j.algal.2025.104148
+
+**Acute PM2.5 Exposure in Distinct NSCLC Cell Lines Reveals Strong Oxidative Stress and Therapy Resistance Signatures Through Transcriptomic Analysis, 2025**
+Panya, A., Thongyim, S., Sattayawat, P., & Inwongwan, S. 
+Toxics, 13(6), 484. https://doi.org/10.3390/toxics13060484
+
+**Metabolomic Insights into the Adaptations and Biotechnological Potential of Euglena gracilis Under Different Trophic Conditions, 2025**
+Inwongwan, S.*, Sriwari, S., & Pumas, C.
+Plants, 14(11), 1580. https://doi.org/10.3390/plants14111580
+
+**Comparative Analysis of Physicochemical and Biological Activities of Meads from Five Mekong Region Honeys Pre- and Post-Fermentation, 2025**
+Inwongwan, S., Kitcharoen, T., Wongsasuk, P., Le Masurier, W., Saksunwiriya, C., Takioawong, P., Pandith, H., Intarasit, S., Noirungsee, N., & Disayathanoowat, T. 
+Fermentation, 11(4), 190. https://doi.org/10.3390/fermentation11040190
+
 **Metabolic response and gene expression changes induced by local PM2.5 exposure in non-small cell lung cancer cells, 2023 - ongoing**
 Funded by National Research Council of Thailand (Fundamental Fund), PI: Sahutchai Inwongwan 
 Department of Biology, Faculty of Science, Chiang Mai University
