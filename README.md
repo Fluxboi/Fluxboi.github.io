@@ -1,6 +1,8 @@
 # APPLIED METABOLIC&BIOENERGETIC MODELLING 
 
-![image (2)](https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011)
+<p align="center">
+  <img width="550" height="550" src="https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011">
+</p>
 
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
 
