@@ -16,12 +16,12 @@
 
 <div align="center">
 
-# **SAHUTCHAI INWONGWAN (GLA), DPhil**
+# **SAHUTCHAI INWONGWAN (GLA), DPhil** 
 
 ### Scientist • Biologist • Biochemist
 
-**Lecturer in Systems Biology, BIOL, CMU, Thailand**  
-**Honorary Research Fellow, GEE, UCL, UK**
+**Lecturer in Systems Biology, BIOL, CMU, Thailand** 🇹🇭  
+**Honorary Research Fellow, GEE, UCL, UK** 🇬🇧
 
 </div>
 
