@@ -11,18 +11,18 @@
 </p>
 
 <p align="center">
-# **SAHUTCHAI INWONGWAN (GLA), DPhil**
+<# **SAHUTCHAI INWONGWAN (GLA), DPhil**>
 
 <p align="center">
-### Scientist - Biologist - Biochemist
+<### Scientist - Biologist - Biochemist>
 </p>
 
 <p align="center">
-**Lecturer in Systems Biology, BIOL, CMU, Thailand**
+<**Lecturer in Systems Biology, BIOL, CMU, Thailand**>
 </p>
 
 <p align="center">
-**Honorary Research Fellow, GEE, UCL, UK**
+<**Honorary Research Fellow, GEE, UCL, UK**>
 </p>
 
 ![image](https://github.com/user-attachments/assets/a23016b5-7c72-40ff-8da7-14a9383031c9)
