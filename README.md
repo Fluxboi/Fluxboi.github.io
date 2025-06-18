@@ -6,8 +6,6 @@
 
 ![Picture1](https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f)
 
-![image](https://github.com/user-attachments/assets/e78b879b-d5a5-45ad-8fd0-93da5f03adf6)
-
 # **SAHUTCHAI INWONGWAN (GLA), DPhil**
 
 ### Scientist - Biologist - Biochemist
