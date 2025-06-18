@@ -14,7 +14,7 @@
   <img width="350" height="350" src="https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f">
 </p>
 
-<div align="center">
+<p align="center">
 
 # **SAHUTCHAI INWONGWAN (GLA), DPhil** 
 
@@ -23,7 +23,7 @@
 **Lecturer in Systems Biology, BIOL, CMU, Thailand** 🇹🇭  
 **Honorary Research Fellow, GEE, UCL, UK** 🇬🇧
 
-</div>
+</p>
 
 ![image](https://github.com/user-attachments/assets/a23016b5-7c72-40ff-8da7-14a9383031c9)
 
