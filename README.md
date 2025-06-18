@@ -3,27 +3,24 @@
 <p align="center">
   <img width="550" height="550" src="https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011">
 </p>
-
-<div align="center">
   
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
 
-</div>
 
 <p align="center">
   <img width="350" height="350" src="https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f">
 </p>
 
-<p align="center">
+<div align="center">
 
-# **SAHUTCHAI INWONGWAN (GLA), DPhil** 
+<h1><strong>SAHUTCHAI INWONGWAN (GLA), DPhil</strong></h1>
 
-### Scientist • Biologist • Biochemist
+<h3>Scientist • Biologist • Biochemist</h3>
 
-**Lecturer in Systems Biology, BIOL, CMU, Thailand** 🇹🇭  
-**Honorary Research Fellow, GEE, UCL, UK** 🇬🇧
+<p><strong>Lecturer in Systems Biology, BIOL, CMU, Thailand</strong><br>
+<strong>Honorary Research Fellow, GEE, UCL, UK</strong></p>
 
-</p>
+</div>
 
 ![image](https://github.com/user-attachments/assets/a23016b5-7c72-40ff-8da7-14a9383031c9)
 
