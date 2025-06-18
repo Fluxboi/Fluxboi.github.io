@@ -10,21 +10,16 @@
   <img width="350" height="350" src="https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f">
 </p>
 
-<p align="center">
-<# **SAHUTCHAI INWONGWAN (GLA), DPhil**>
-</p>
-  
-<p align="center">
-<### Scientist - Biologist - Biochemist>
-</p>
+<div align="center">
 
-<p align="center">
-<**Lecturer in Systems Biology, BIOL, CMU, Thailand**>
-</p>
+# **SAHUTCHAI INWONGWAN (GLA), DPhil**
 
-<p align="center">
-<**Honorary Research Fellow, GEE, UCL, UK**>
-</p>
+### Scientist • Biologist • Biochemist
+
+**Lecturer in Systems Biology, BIOL, CMU, Thailand**  
+**Honorary Research Fellow, GEE, UCL, UK**
+
+</div>
 
 ![image](https://github.com/user-attachments/assets/a23016b5-7c72-40ff-8da7-14a9383031c9)
 
