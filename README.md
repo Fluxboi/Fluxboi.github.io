@@ -12,7 +12,8 @@
 
 <p align="center">
 <# **SAHUTCHAI INWONGWAN (GLA), DPhil**>
-
+</p>
+  
 <p align="center">
 <### Scientist - Biologist - Biochemist>
 </p>
