@@ -4,7 +4,7 @@
 
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
 
-![Picture1](https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f)
+![Picture1](https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f) | width=100
 
 # **SAHUTCHAI INWONGWAN (GLA), DPhil**
 
