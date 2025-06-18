@@ -4,6 +4,8 @@
 
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
 
+![Picture1](https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f)
+
 ![image](https://github.com/user-attachments/assets/e78b879b-d5a5-45ad-8fd0-93da5f03adf6)
 
 # **SAHUTCHAI INWONGWAN (GLA), DPhil**
@@ -57,10 +59,6 @@ Our current research focuses include:
 ---
 
 #### Research
-
-**<li class="Faculty Research Profil">
-          <a href="https://rsc.science.cmu.ac.th/INWONGWAN/SAHUTCHAI/">Research</a>
-        </li>**
 
 **Ethanol-driven mixotrophic cultivation enhances biomass production and CO2 capture in Euglena gracilis for sustainable bioresource utilisation, 2025**
 Inwongwan, S., Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
