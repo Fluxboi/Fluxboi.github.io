@@ -64,19 +64,19 @@ Our current research focuses include:
 
 **Ethanol-driven mixotrophic cultivation enhances biomass production and CO2 capture in Euglena gracilis for sustainable bioresource utilisation, 2025**
 Inwongwan, S., Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
-Algal Research, 104148. https://doi.org/10.1016/j.algal.2025.104148
+Algal Research, 104148. <https://doi.org/10.1016/j.algal.2025.104148>
 
 **Acute PM2.5 Exposure in Distinct NSCLC Cell Lines Reveals Strong Oxidative Stress and Therapy Resistance Signatures Through Transcriptomic Analysis, 2025**
 Panya, A., Thongyim, S., Sattayawat, P., & Inwongwan, S. 
-Toxics, 13(6), 484. https://doi.org/10.3390/toxics13060484
+Toxics, 13(6), 484. <https://doi.org/10.3390/toxics13060484>
 
 **Metabolomic Insights into the Adaptations and Biotechnological Potential of Euglena gracilis Under Different Trophic Conditions, 2025**
 Inwongwan, S.*, Sriwari, S., & Pumas, C.
-Plants, 14(11), 1580. https://doi.org/10.3390/plants14111580
+Plants, 14(11), 1580. <https://doi.org/10.3390/plants14111580>
 
 **Comparative Analysis of Physicochemical and Biological Activities of Meads from Five Mekong Region Honeys Pre- and Post-Fermentation, 2025**
 Inwongwan, S., Kitcharoen, T., Wongsasuk, P., Le Masurier, W., Saksunwiriya, C., Takioawong, P., Pandith, H., Intarasit, S., Noirungsee, N., & Disayathanoowat, T. 
-Fermentation, 11(4), 190. https://doi.org/10.3390/fermentation11040190
+Fermentation, 11(4), 190. <https://doi.org/10.3390/fermentation11040190>
 
 **Metabolic response and gene expression changes induced by local PM2.5 exposure in non-small cell lung cancer cells, 2023 - ongoing**
 Funded by National Research Council of Thailand (Fundamental Fund), PI: Sahutchai Inwongwan 
@@ -100,31 +100,31 @@ Department of Biology, Faculty of Science, Chiang Mai University
 
 **Microalgae growth-promoting bacteria for cultivation strategies: Recent updates and progress, 2024** 
 Pathom-aree, W., Sattayawat, P., Inwongwan, S., Cheirsilp, B., Liewtrakula, N., Maneechote, W., Rangseekaew, P., Ahmad, F., Mehmood, M. A., Gao, F. & Srinuanpan, S
-Microbiological Research, https://doi.org/10.1016/j.micres.2024.127813
+Microbiological Research, <https://doi.org/10.1016/j.micres.2024.127813>
 
 **Engineering Gut Symbionts: A Way to Promote Bee Growth?, 2024** 
 Sattayawat P. ,  Inwongwan S. , Noirungsee N. , Li, J. , Guo, J. , Disayathanoowat, T
-Insects, https://doi.org/10.3390/insects15050369
+Insects, <https://doi.org/10.3390/insects15050369>
 
 **Distinct fungal microbiomes of two Thai commercial stingless bee species, Lepidotrigona terminata and Tetragonula pagdeni suggest a possible niche separation in a shared habitat, 2024**
 Castillo D.C. , Sinpoo C. , Phokasem P. , Yongsawas R. , Sansupa C. , Attasopa K. , Suwannarach N. , Inwongwan S. , Noirungsee N. , Disayathanoowat T. 
-Frontiers in Cellular and Infection Microbiology, https://doi.org/10.3389/fcimb.2024.1367010
+Frontiers in Cellular and Infection Microbiology, <https://doi.org/10.3389/fcimb.2024.1367010>
 
 **Genome‐scale metabolic modelling of extremophiles and its applications in astrobiological environments, 2024**
 Noirungsee, N., Changkhong, S., Phinyo, K., Suwannajak, C., Tanakul, N. and Inwongwan, S  
-Environmental Microbiology Reports, https://doi.org/10.1111/1758-2229.13231
+Environmental Microbiology Reports, <https://doi.org/10.1111/1758-2229.13231>
 
 **Mitonuclear interactions modulate nutritional preference, 2024** 
 Camus, M.F. and Inwongwan, S. 
-Biology Letters, 19(12), p.20230375, https://doi.org/10.1098/rsbl.2023.0375
+Biology Letters, 19(12), p.20230375, <https://doi.org/10.1098/rsbl.2023.0375>
 
 **Harmonising protocols to measure *Drosophila* respiratory function in mitochondrial preparations, 2023**
 Enrique Rodríguez, Stefano Bettinazzi, Sahutchai Inwongwan, M. Florencia Camus, Nick Lane
-MitoFit Preprints, 2023.4 https://doi.org/10.26124/mitofit:2023-0004
+MitoFit Preprints, 2023.4 <https://doi.org/10.26124/mitofit:2023-0004>
 
 **Metabolic network reconstruction of *Euglena gracilis*: Current state, challenges, and applications, 2023**
 INWONGWAN, S., PEKKOH, J., PUMAS, C. & SATTAYAWAT, P
-Frontiers in Microbiology, https://doi.org/10.3389/fmicb.2023.1143770
+Frontiers in Microbiology, <https://doi.org/10.3389/fmicb.2023.1143770>
 
 **Flux Capacitor: How mitochondria modulate metabolic flux and gene expression, 2020 - ongoing**
 Funded by BBSRC, UK, PI: Prof. Nick Lane
@@ -136,7 +136,7 @@ Department of Plant Sciences, University of Oxford
 
 ***Euglena* central metabolic pathways and their subcellular locations, 2019**
 Sahutchai Inwongwan, Nicholas J. Kruger, R. George Ratcliffe and Ellis C. O’Neill
-Metabolites 2019, 9(6), 115; https://doi.org/10.3390/metabo9060115
+Metabolites 2019, 9(6), 115; <https://doi.org/10.3390/metabo9060115>
 
 **Interspecific interaction between marine *Chrysochromulina* spp. and their associated bacteria, 2015**
 Advisor: Prof. Dr. Rose Ann Cattolico, University of Washington
