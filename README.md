@@ -1,10 +1,14 @@
+<div align="center">
 # APPLIED METABOLIC&BIOENERGETIC MODELLING 
+</div>
 
 <p align="center">
   <img width="550" height="550" src="https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011">
 </p>
 
+<div align="center">
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
+</div>
 
 <p align="center">
   <img width="350" height="350" src="https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f">
