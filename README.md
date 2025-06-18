@@ -1,5 +1,7 @@
 <div align="center">
+  
 # APPLIED METABOLIC&BIOENERGETIC MODELLING 
+
 </div>
 
 <p align="center">
@@ -7,7 +9,9 @@
 </p>
 
 <div align="center">
+  
 ## Investigating 'life' via metabolic flux and bioenergetic analyses
+
 </div>
 
 <p align="center">
