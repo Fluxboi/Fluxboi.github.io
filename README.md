@@ -27,7 +27,7 @@ The lab’s projects span multiple frontiers of biology:
 - **Astrobiology and astrobioinnovation**, modelling life’s resilience under extraterrestrial and space-analog conditions  
 - **Honeybee microbiome and symbiosis**, leveraging gut microbes for pollinator health and bioresource potential
 
- ## Principal Investigator
+## Principal Investigator
  
 <p align="center">
   <img width="350" height="350" src="https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f">
@@ -51,7 +51,7 @@ His thesis explored the capacities of Euglena metabolic network using metabolic 
 He was working as a research fellow at University College London before moving back to Chiang Mai, Thailand, for his lectureship in Systems biology.
 ---
 
-# Experiences 
+### Experiences 
 **o	Research Fellow**, University College London, Study the effect of mito-nuclear incompatibility in Drosophila, UK, 2020-2022
 
 **o	Policy development intern**, National Science Research and Innovation Policy Council, Developing BCG Economy Model, Thailand, 2019
