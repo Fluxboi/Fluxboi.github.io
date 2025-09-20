@@ -1,11 +1,38 @@
-<h1 align="center"><strong>Systems Integration</strong></h1>
+<details>
+  <summary><b>📌 Table of Contents</b></summary>
 
-<p align="center">
-  <img width="550" height="550" src="https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011">
-</p>
+  - [Systems Integration Laboratory](#systems-integration-laboratory)
+  - [Principal Investigator](#principal-investigator)  
+  - [Research Interests](#research-interests)  
+  - [Key Skills](#key-skills)  
+  - [Research](#research)  
+  - [Experiences](#experiences)
+  - [Join Our Lab](#join-our-lab) 
+  - [Contact](#contact)  
+  - [Art Projects](#art-projects)  
+
+</details>
   
 <h2 align="center">Investigating 'life' via metabolic flux and bioenergetic analyses</h2>
 
+## Systems Integration Laboratory
+
+<p align="center">
+  <img width="250" height="250" src="https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011">
+</p>
+The **Systems Integration Laboratory (SI Lab)** at Chiang Mai University integrates experimental and computational approaches to uncover how living systems function, adapt, and can be engineered for impact.  
+
+Our vision is to **connect biology across scales** — from genes and metabolites to organisms and ecosystems — through **systems biology, bioenergetics, and metabolic modelling**. We bridge **fundamental research** with **applied innovation**, addressing challenges in **health, sustainable resources, and astrobiology**.  
+
+The lab’s projects span multiple frontiers of biology:  
+- **Metabolic modelling of *Euglena gracilis*** for carbon capture, bioactive compounds, and industrial biofactory applications  
+- **PM2.5–cancer cell interactions**, using multi-omics to understand oxidative stress, metabolic rewiring, and therapy resistance  
+- **Fermentation science**, developing new processes and microbial strategies for high-value fermented beverages  
+- **Astrobiology and astrobioinnovation**, modelling life’s resilience under extraterrestrial and space-analog conditions  
+- **Honeybee microbiome and symbiosis**, leveraging gut microbes for pollinator health and bioresource potential
+
+ ## Principal Investigator
+ 
 <p align="center">
   <img width="350" height="350" src="https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f">
 </p>
@@ -29,6 +56,7 @@ He was working as a research fellow at University College London before moving b
 
 ---
 
+## Research Interests
 Our current research focuses include: 
 
 #### - Metabolic modelling and network optimisation of Euglena gracilis for sustainable industrial and advanced applications 
@@ -50,17 +78,36 @@ Our current research focuses include:
 
 ---
 
-#### Key Skills
-- Metabolic flux analysis
-- Metabolic network reconstruction and modelling 
-- Multi-omics (Metabolomic and transcriptomic) analysis
-- Gas chromatography–mass spectrometry (GC-MS) and flow cytometry
-- Electron and fluorescence microscopy 
-- Drosophila, algal, plant and microbial experiments
+## Key Skills
+•	Systems Biology: Expertise in integrating biological data to understand complex biological systems.
+
+•	Metabolic Pathway Analysis: Capable of mapping and analyzing metabolic pathways to identify key bioenergetic processes.
+
+•	Genome-Scale Metabolic Modeling and Metabolic flux analysis: Proficiency in constructing and analyzing genome-scale metabolic models to optimize metabolic processes.
+
+•	Chemical Biomass Composition Analysis (GC-MS): Proficiency in gas chromatography-mass spectrometry for analyzing biochemical compositions of biomass.
+
+•	Algae Cultivation: Skilled in cultivating algae under various conditions, essential for optimizing E. gracilis growth.
+
+•	Advanced Microscopy: Experience with fluorescence microscopy, confocal microscopy, and electron microscopy for detailed cellular analysis.
+
+•	Flow Cytometry: Proficient in cell counting and biomarker detection, facilitating cellular characterization and sorting.
+
+•	Algal Product Development: Background in developing commercial products from algal biomass, applicable to high-value product synthesis.
+
+•	Metabolomics: Skilled in metabolite profiling to understand cellular metabolism and biochemical changes.
+
+•	Transcriptomics: Expertise in gene expression analysis, including RNA sequencing and qPCR, to study gene regulatory networks.
+
+•	Molecular Biology Techniques: Familiar with a range of molecular techniques, including DNA/RNA extraction, cloning, and PCR.
+
+•	Aquatic Field Research: Skilled in field research related to aquatic environments, supporting the practical aspects of algal cultivation and sampling.
+
+•	Drosophila, algal, plant and microbial experiments
 
 ---
 
-#### Research
+## Research
 
 **Ethanol-driven mixotrophic cultivation enhances biomass production and CO2 capture in Euglena gracilis for sustainable bioresource utilisation, 2025**
 Inwongwan, S., Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
@@ -148,7 +195,7 @@ Funded by Junior Science Talent Project (JSTP), NSTDA
 
 ---
 
-#### Experiences 
+## Experiences 
 **o	Research Fellow**, University College London, Study the effect of mito-nuclear incompatibility in Drosophila, UK, 2020-2022
 
 **o	Policy development intern**, National Science Research and Innovation Policy Council, Developing BCG Economy Model, Thailand, 2019
@@ -168,8 +215,15 @@ Funded by Junior Science Talent Project (JSTP), NSTDA
 **o	Internship**, National Center for Genetic Engineering and Biotechnology, Study gene expression in cassava root, Thailand, 2012
 
 ---
+## Join Our Lab
+The SI Lab is a highly interdisciplinary space where **biologists, chemists, computational scientists, and engineers** work together. We welcome:  
+- Undergraduate and graduate students seeking research experience  
+- Postdoctoral researchers interested in multi-omics and systems modelling  
+- Collaborators from academia, industry, and international institutions  
 
-#### Contact
+📧 For opportunities or collaborations, please contact [sahutchai.inwongwan@cmu.ac.th](mailto:sahutchai.inwongwan@cmu.ac.th).  
+
+## Contact
 ```
 SAHUTCHAI INWONGWAN, DPhil
 Lecturer in Systems Biology
@@ -181,7 +235,8 @@ Chiang Mai, Thailand, 50200
 email: sahutchai.inwongwan@cmu.ac.th, s.inwongwan@ucl.ac.uk
 Tel: +66 821972128
 ```
-#### Art projects
+
+## Art projects
 ![unnamed-5](https://user-images.githubusercontent.com/77986547/166148973-b247c06c-0b85-4042-a590-12fdbff6ca1e.jpg)
 Hugging Gourd, GLA, London, April 2021
 
