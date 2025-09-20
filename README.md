@@ -1,19 +1,19 @@
 <details>
   <summary><b>📌 Table of Contents</b></summary>
 
-  - [Systems Integration Laboratory](#systems-integration-laboratory)
-  - [Principal Investigator](#principal-investigator)  
-  - [Research Interests](#research-interests)  
-  - [Key Skills](#key-skills)  
-  - [Research](#research)  
-  - [Experiences](#experiences)
-  - [Join Our Lab](#join-our-lab) 
-  - [Contact](#contact)  
-  - [Art Projects](#art-projects)  
+- [Systems Integration Laboratory](#systems-integration-laboratory)
+- [Principal Investigator](#principal-investigator)
+- [Research Interests](#research-interests)
+- [Key Skills](#key-skills)
+- [Research](#research)
+- [Experiences](#experiences)
+- [Join Our Lab](#join-our-lab)
+- [Contact](#contact)
+- [Art Projects](#art-projects)
 
 </details>
-  
-<h2 align="center">Investigating 'life' via metabolic flux and bioenergetic analyses</h2>
+
+<h1 align="center">Investigating 'life' via metabolic flux and bioenergetic analyses</h1>
 
 ## Systems Integration Laboratory
 
@@ -39,7 +39,7 @@ The lab’s projects span multiple frontiers of biology:
 
 <div align="center">
 
-<h1><strong>SAHUTCHAI INWONGWAN (GLA), DPhil</strong></h1>
+<h2><strong>SAHUTCHAI INWONGWAN (GLA), DPhil</strong></h2>
 
 <h3>Scientist • Biologist • Biochemist</h3>
 
