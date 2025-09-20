@@ -1,17 +1,14 @@
-<details>
-  <summary><b>📌 Table of Contents</b></summary>
-
-- [Systems Integration Laboratory](#systems-integration-laboratory)
-- [Principal Investigator](#principal-investigator)
-- [Research Interests](#research-interests)
-- [Key Skills](#key-skills)
-- [Research](#research)
-- [Experiences](#experiences)
-- [Join Our Lab](#join-our-lab)
-- [Contact](#contact)
-- [Art Projects](#art-projects)
-
-</details>
+<p align="center">
+  <a href="#systems-integration-laboratory">Systems Integration Laboratory</a> •
+  <a href="#principal-investigator">Principal Investigator</a> •
+  <a href="#research-interests">Research Interests</a> •
+  <a href="#key-skills">Key Skills</a> •
+  <a href="#research">Research</a> •
+  <a href="#experiences">Experiences</a> •
+  <a href="#join-our-lab">Join Our Lab</a> •
+  <a href="#contact">Contact</a> •
+  <a href="#art-projects">Art Projects</a>
+</p>
 
 <h1 align="center">Investigating 'life' via metabolic flux and bioenergetic analyses</h1>
 
