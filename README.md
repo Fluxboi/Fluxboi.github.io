@@ -4,7 +4,6 @@
   <a href="#research-interests">Research Interests</a> •
   <a href="#key-skills">Key Skills</a> •
   <a href="#research">Research</a> •
-  <a href="#experiences">Experiences</a> •
   <a href="#join-our-lab">Join Our Lab</a> •
   <a href="#contact">Contact</a> •
   <a href="#art-projects">Art Projects</a>
@@ -50,6 +49,26 @@ The lab’s projects span multiple frontiers of biology:
 Sahutchai completed a DPhil (PhD) degree from the Department of Plant Sciences, University of Oxford. 
 His thesis explored the capacities of Euglena metabolic network using metabolic flux analysis techniques. 
 He was working as a research fellow at University College London before moving back to Chiang Mai, Thailand, for his lectureship in Systems biology.
+---
+
+#Experiences 
+**o	Research Fellow**, University College London, Study the effect of mito-nuclear incompatibility in Drosophila, UK, 2020-2022
+
+**o	Policy development intern**, National Science Research and Innovation Policy Council, Developing BCG Economy Model, Thailand, 2019
+
+**o	Biological practice demonstrator**, University of Oxford UK, 2017-2020
+
+**o	Research internship**, Biological Modelling Laboratory, KMUTT, Train for systems biology, metabolic network analysis and bioinformatics skills, Thailand, 2016
+
+**o	Research internship**, Cattolico Laboratory, University of Washington, Study interaction of bacteria and algae for growth and lipid production, USA, 2014
+
+**o	JENESYS 2.0 program**, science and technology, Government of Japan, Japan, 2014
+
+**o	Visiting Israel on the topic of precision agriculture**, Academic collaboration between Israel and Thailand, Funded by : National Science and Technology Development (NSTDA), Israel, 2013
+
+**o	Visiting Shanghai on the topic of agricultural biotechnology**, Visit universities and research institutes in Shanghai for research collaborations between research institutes in Thailand and Shanghai, Funded by : Ministry of Foreign Affairs, Kingdom of Thailand, China, 2012
+
+**o	Internship**, National Center for Genetic Engineering and Biotechnology, Study gene expression in cassava root, Thailand, 2012
 
 ---
 
@@ -189,27 +208,6 @@ Funded by Development and Promotion of Science and Technology talents project (D
 **Isolation and cultivation of *Botryococcus braunii* Kützing for hydrocarbon production, 2015**
 Advisor: Asst. Dr. Jeeraporn Pekkoh 
 Funded by Junior Science Talent Project (JSTP), NSTDA
-
----
-
-## Experiences 
-**o	Research Fellow**, University College London, Study the effect of mito-nuclear incompatibility in Drosophila, UK, 2020-2022
-
-**o	Policy development intern**, National Science Research and Innovation Policy Council, Developing BCG Economy Model, Thailand, 2019
-
-**o	Biological practice demonstrator**, University of Oxford UK, 2017-2020
-
-**o	Research internship**, Biological Modelling Laboratory, KMUTT, Train for systems biology, metabolic network analysis and bioinformatics skills, Thailand, 2016
-
-**o	Research internship**, Cattolico Laboratory, University of Washington, Study interaction of bacteria and algae for growth and lipid production, USA, 2014
-
-**o	JENESYS 2.0 program**, science and technology, Government of Japan, Japan, 2014
-
-**o	Visiting Israel on the topic of precision agriculture**, Academic collaboration between Israel and Thailand, Funded by : National Science and Technology Development (NSTDA), Israel, 2013
-
-**o	Visiting Shanghai on the topic of agricultural biotechnology**, Visit universities and research institutes in Shanghai for research collaborations between research institutes in Thailand and Shanghai, Funded by : Ministry of Foreign Affairs, Kingdom of Thailand, China, 2012
-
-**o	Internship**, National Center for Genetic Engineering and Biotechnology, Study gene expression in cassava root, Thailand, 2012
 
 ---
 ## Join Our Lab
