@@ -51,7 +51,7 @@ His thesis explored the capacities of Euglena metabolic network using metabolic 
 He was working as a research fellow at University College London before moving back to Chiang Mai, Thailand, for his lectureship in Systems biology.
 ---
 
-#Experiences 
+# Experiences 
 **o	Research Fellow**, University College London, Study the effect of mito-nuclear incompatibility in Drosophila, UK, 2020-2022
 
 **o	Policy development intern**, National Science Research and Innovation Policy Council, Developing BCG Economy Model, Thailand, 2019
