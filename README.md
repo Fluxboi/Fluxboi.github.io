@@ -125,12 +125,28 @@ Our current research focuses include:
 
 ## Research
 
+**Ethanol valorization as dual-purpose carbon source enhances biomass and paramylon production in non-axenic Euglena gracilis biorefinery, 2026**
+Duangjan, K., Pekkoh, J., Sensupa, P., **Inwongwan, S.**, Srinuanpan, S., Phinyo, K., Kaewman, N., Ruangrit, K. & Pumas, C. 
+Journal of Applied Phycology. <https://doi.org/10.1007/s10811-025-03777-6>
+
+**Biomass-Haze PM2.5 from Northern Thailand Drives Genotype-Specific Oxidative Stress and Transcriptomic Remodeling in Non-Small-Cell Lung Cancer Cells, 2025**
+Prommana, S., Intarasit, S., Thongyim, S., Yabueng, N., Chantara, S., Sattayawat, P., Panya, A., & **Inwongwan, S.** 
+Toxics, 14(1), 21. <https://doi.org/10.3390/toxics14010021>
+
+**Beyond photosynthesis: Harnessing heterotrophic CO2 fixation in Euglena gracilis for next-generation carbon capture and circular biomanufacturing, 2026**
+**Inwongwan, S.**
+Bioresource Technology Reports, 102438. <https://doi.org/10.1016/j.biteb.2025.102438>
+
 **Ethanol-driven mixotrophic cultivation enhances biomass production and CO2 capture in Euglena gracilis for sustainable bioresource utilisation, 2025**
-Inwongwan, S., Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
+**Inwongwan, S.**, Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
+Algal Research, 104148. <https://doi.org/10.1016/j.algal.2025.104148>
+
+**Ethanol-driven mixotrophic cultivation enhances biomass production and CO2 capture in Euglena gracilis for sustainable bioresource utilisation, 2025**
+**Inwongwan, S**., Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
 Algal Research, 104148. <https://doi.org/10.1016/j.algal.2025.104148>
 
 **Acute PM2.5 Exposure in Distinct NSCLC Cell Lines Reveals Strong Oxidative Stress and Therapy Resistance Signatures Through Transcriptomic Analysis, 2025**
-Panya, A., Thongyim, S., Sattayawat, P., & Inwongwan, S. 
+Panya, A., Thongyim, S., Sattayawat, P., & **Inwongwan, S.** 
 Toxics, 13(6), 484. <https://doi.org/10.3390/toxics13060484>
 
 **Metabolomic Insights into the Adaptations and Biotechnological Potential of Euglena gracilis Under Different Trophic Conditions, 2025**
