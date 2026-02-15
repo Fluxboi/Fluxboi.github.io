@@ -125,6 +125,10 @@ Our current research focuses include:
 
 ## Research
 
+**Coordinating photosynthesis and respiration: Evolution and functional integration of mitochondria and chloroplasts in algae, 2026**
+Sitthisak Intarasit, **Sahutchai Inwongwan**
+Plant Physiology. <https://doi.org/10.1093/plphys/kiag054>
+
 **Ethanol valorization as dual-purpose carbon source enhances biomass and paramylon production in non-axenic Euglena gracilis biorefinery, 2026**
 Duangjan, K., Pekkoh, J., Sensupa, P., **Inwongwan, S.**, Srinuanpan, S., Phinyo, K., Kaewman, N., Ruangrit, K. & Pumas, C. 
 Journal of Applied Phycology. <https://doi.org/10.1007/s10811-025-03777-6>
@@ -253,3 +257,13 @@ Hugging Gourd, GLA, London, April 2021
 
 ![image](https://github.com/user-attachments/assets/b1e03ca8-b4f3-4090-adf5-f1a96fb74830)
 Winner of Research SNAPSHOT, Oxford Biochemical Society Magazine 2017
+
+![000042](https://github.com/user-attachments/assets/28dc3e90-b9e6-4560-bc12-39a1d82798cd)
+Branches and birds, 35mm BW expired film, Hyde Park London, Nov 2020
+
+<img width="1920" height="1440" alt="Slide1" src="https://github.com/user-attachments/assets/7530edd8-5db3-4106-8d47-ab30f06ef01c" />
+Soft ligth, 35mm BW expired film, Gray's Inn Road, London, Oct 2020
+
+<img width="1920" height="1440" alt="Slide2" src="https://github.com/user-attachments/assets/acca1b22-979a-4386-953f-c6e869aecbf4" />
+Dim ligth, 35mm BW expired film, York, Oct 2017
+
