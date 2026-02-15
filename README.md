@@ -264,8 +264,8 @@ Winner of Research SNAPSHOT, Oxford Biochemical Society Magazine 2017
 ![000042](https://github.com/user-attachments/assets/28dc3e90-b9e6-4560-bc12-39a1d82798cd)
 Branches and birds, 35mm BW expired film, Hyde Park London, Nov 2020
 
-<img width="1920" height="1440" alt="Slide1" src="https://github.com/user-attachments/assets/7530edd8-5db3-4106-8d47-ab30f06ef01c" />
+![Slide3](https://github.com/user-attachments/assets/8967958f-7730-4881-9590-46274cd77e59)
 Soft ligth, 35mm BW expired film, Gray's Inn Road, London, Oct 2020
 
-<img width="1920" height="1440" alt="Slide2" src="https://github.com/user-attachments/assets/acca1b22-979a-4386-953f-c6e869aecbf4" />
+![Slide4](https://github.com/user-attachments/assets/3eae76f8-4015-492b-bf0f-f8cfe696c9c9)
 Dim ligth, 35mm BW expired film, York, Oct 2017
