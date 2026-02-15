@@ -21,11 +21,35 @@ The **Systems Integration Laboratory (SI Lab)** at Chiang Mai University integra
 Our vision is to **connect biology across scales** — from genes and metabolites to organisms and ecosystems — through **systems biology, bioenergetics, and metabolic modelling**. We bridge **fundamental research** with **applied innovation**, addressing challenges in **health, sustainable resources, and astrobiology**.  
 
 The lab’s projects span multiple frontiers of biology:  
+- **Mitochondria and chlorplast Coordination in *Euglena gracilis*** to depict the bioenergetic synergy and metabolic adaptation  
 - **Metabolic modelling of *Euglena gracilis*** for carbon capture, bioactive compounds, and industrial biofactory applications  
 - **PM2.5–cancer cell interactions**, using multi-omics to understand oxidative stress, metabolic rewiring, and therapy resistance  
 - **Fermentation science**, developing new processes and microbial strategies for high-value fermented beverages  
 - **Astrobiology and astrobioinnovation**, modelling life’s resilience under extraterrestrial and space-analog conditions  
 - **Honeybee microbiome and symbiosis**, leveraging gut microbes for pollinator health and bioresource potential
+
+---
+## Join Our Lab
+The SI Lab is a highly interdisciplinary space where **biologists, chemists, computational scientists, and engineers** work together. We welcome:  
+- Undergraduate and graduate students seeking research experience  
+- Postdoctoral researchers interested in multi-omics and systems modelling  
+- Collaborators from academia, industry, and international institutions  
+
+📧 For opportunities or collaborations, please contact [sahutchai.inwongwan@cmu.ac.th](mailto:sahutchai.inwongwan@cmu.ac.th).  
+
+## Contact
+```
+SAHUTCHAI INWONGWAN, DPhil
+Lecturer in Systems Biology
+Room BB2406
+Department of Biology, Faculty of Science
+Chiang Mai University
+239 Huay Keaw Rd, Tambon Su Thep, Mueang District
+Chiang Mai, Thailand, 50200
+email: sahutchai.inwongwan@cmu.ac.th, s.inwongwan@ucl.ac.uk
+Tel: +66 821972128
+```
+---
 
 ## Principal Investigator
  
@@ -51,28 +75,6 @@ His thesis explored the capacities of Euglena metabolic network using metabolic 
 He was working as a research fellow at University College London before moving back to Chiang Mai, Thailand, for his lectureship in Systems biology.
 ---
 
-## Join Our Lab
-The SI Lab is a highly interdisciplinary space where **biologists, chemists, computational scientists, and engineers** work together. We welcome:  
-- Undergraduate and graduate students seeking research experience  
-- Postdoctoral researchers interested in multi-omics and systems modelling  
-- Collaborators from academia, industry, and international institutions  
-
-📧 For opportunities or collaborations, please contact [sahutchai.inwongwan@cmu.ac.th](mailto:sahutchai.inwongwan@cmu.ac.th).  
-
-## Contact
-```
-SAHUTCHAI INWONGWAN, DPhil
-Lecturer in Systems Biology
-Room BB2406
-Department of Biology, Faculty of Science
-Chiang Mai University
-239 Huay Keaw Rd, Tambon Su Thep, Mueang District
-Chiang Mai, Thailand, 50200
-email: sahutchai.inwongwan@cmu.ac.th, s.inwongwan@ucl.ac.uk
-Tel: +66 821972128
-```
-
----
 ### Experiences 
 **o	Research Fellow**, University College London, Study the effect of mito-nuclear incompatibility in Drosophila, UK, 2020-2022
 
