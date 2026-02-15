@@ -1,11 +1,11 @@
 <p align="center">
   <a href="#systems-integration-laboratory">Systems Integration Laboratory</a> •
+  <a href="#join-our-lab">Join Our Lab</a> •
+  <a href="#contact">Contact</a> •
   <a href="#principal-investigator">Principal Investigator</a> •
   <a href="#research-interests">Research Interests</a> •
   <a href="#key-skills">Key Skills</a> •
   <a href="#research">Research</a> •
-  <a href="#join-our-lab">Join Our Lab</a> •
-  <a href="#contact">Contact</a> •
   <a href="#art-projects">Art Projects</a>
 </p>
 
