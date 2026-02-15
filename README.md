@@ -21,7 +21,7 @@ The **Systems Integration Laboratory (SI Lab)** at Chiang Mai University integra
 Our vision is to **connect biology across scales** — from genes and metabolites to organisms and ecosystems — through **systems biology, bioenergetics, and metabolic modelling**. We bridge **fundamental research** with **applied innovation**, addressing challenges in **health, sustainable resources, and astrobiology**.  
 
 The lab’s projects span multiple frontiers of biology:  
-- **Mitochondria and chlorplast Coordination in *Euglena gracilis*** to depict the bioenergetic synergy and metabolic adaptation  
+- **Mitochondria and chloroplast coordination in *Euglena gracilis*** to depict the bioenergetic synergy and metabolic adaptation  
 - **Metabolic modelling of *Euglena gracilis*** for carbon capture, bioactive compounds, and industrial biofactory applications  
 - **PM2.5–cancer cell interactions**, using multi-omics to understand oxidative stress, metabolic rewiring, and therapy resistance  
 - **Fermentation science**, developing new processes and microbial strategies for high-value fermented beverages  
