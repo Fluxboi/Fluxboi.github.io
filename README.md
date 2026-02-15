@@ -169,10 +169,6 @@ Bioresource Technology Reports, 102438. <https://doi.org/10.1016/j.biteb.2025.10
 **Inwongwan, S.**, Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
 Algal Research, 104148. <https://doi.org/10.1016/j.algal.2025.104148>
 
-**Ethanol-driven mixotrophic cultivation enhances biomass production and CO2 capture in Euglena gracilis for sustainable bioresource utilisation, 2025**
-**Inwongwan, S**., Duangjan, K., Sensupa, P., Phinyo, K., Ruangrit, K., Pumas, C., & Pekkoh, J. 
-Algal Research, 104148. <https://doi.org/10.1016/j.algal.2025.104148>
-
 **Acute PM2.5 Exposure in Distinct NSCLC Cell Lines Reveals Strong Oxidative Stress and Therapy Resistance Signatures Through Transcriptomic Analysis, 2025**
 Panya, A., Thongyim, S., Sattayawat, P., & **Inwongwan, S.** 
 Toxics, 13(6), 484. <https://doi.org/10.3390/toxics13060484>
