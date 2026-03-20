@@ -14,7 +14,7 @@
 ## Systems Integration Laboratory
 
 <p align="center">
-  <img width="250" height="250" src="https://github.com/user-attachments/assets/98f8b905-611b-4d02-b29a-b71ce155e011">
+ <img width="1649" height="1649" alt="image" src="https://github.com/user-attachments/assets/ee6051c2-390a-48ae-a4bf-49e41a201092" />
 </p>
 The **Systems Integration Laboratory (SI Lab)** at Chiang Mai University integrates experimental and computational approaches to uncover how living systems function, adapt, and can be engineered for impact.  
 
