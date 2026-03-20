@@ -1,0 +1,1139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SI Lab — Systems Integration Laboratory | Chiang Mai University</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Mono:wght@400;500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0f1117;
+    --ink-light: #3a3d4a;
+    --ink-faint: #7a7f90;
+    --bg: #f8f7f3;
+    --bg-card: #ffffff;
+    --accent: #2d6a4f;
+    --accent-light: #52b788;
+    --accent-pale: #d8f3dc;
+    --accent2: #b5838d;
+    --rule: #e0ddd5;
+    --mono: 'DM Mono', monospace;
+    --serif: 'EB Garamond', Georgia, serif;
+    --sans: 'Outfit', sans-serif;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--ink);
+    font-size: 16px;
+    line-height: 1.7;
+    overflow-x: hidden;
+  }
+
+  /* ── NAV ── */
+  nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    background: rgba(248,247,243,0.92);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--rule);
+    padding: 0 5vw;
+    height: 58px;
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .nav-brand {
+    font-family: var(--mono);
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .nav-links {
+    display: flex; gap: 2rem; list-style: none;
+  }
+  .nav-links a {
+    font-size: 0.78rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--ink-light);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .nav-links a:hover { color: var(--accent); }
+
+  /* ── HERO ── */
+  .hero {
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 58px;
+  }
+  .hero-left {
+    display: flex; flex-direction: column; justify-content: center;
+    padding: 7vw 5vw 7vw 8vw;
+    position: relative;
+  }
+  .hero-left::after {
+    content: '';
+    position: absolute; right: 0; top: 15%; bottom: 15%;
+    width: 1px; background: var(--rule);
+  }
+  .hero-eyebrow {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 1.5rem;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+  .hero-eyebrow::before {
+    content: '';
+    display: block; width: 2rem; height: 1px;
+    background: var(--accent);
+  }
+  .hero-title {
+    font-family: var(--serif);
+    font-size: clamp(2.4rem, 4.5vw, 4rem);
+    line-height: 1.15;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.01em;
+  }
+  .hero-title em {
+    font-style: italic;
+    color: var(--accent);
+  }
+  .hero-sub {
+    font-size: 1rem;
+    color: var(--ink-light);
+    max-width: 460px;
+    line-height: 1.75;
+    margin-bottom: 2.5rem;
+  }
+  .hero-cta-row {
+    display: flex; gap: 1rem; flex-wrap: wrap;
+  }
+  .btn {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    padding: 0.65rem 1.4rem;
+    font-family: var(--sans);
+    font-size: 0.82rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+    border-radius: 3px;
+    transition: all 0.2s;
+    cursor: pointer;
+  }
+  .btn-primary {
+    background: var(--accent);
+    color: white;
+    border: 1px solid var(--accent);
+  }
+  .btn-primary:hover { background: #1e4d38; border-color: #1e4d38; }
+  .btn-outline {
+    background: transparent;
+    color: var(--ink);
+    border: 1px solid var(--rule);
+  }
+  .btn-outline:hover { border-color: var(--ink-light); }
+
+  .hero-right {
+    display: flex; flex-direction: column; justify-content: center;
+    padding: 7vw 8vw 7vw 5vw;
+    gap: 2rem;
+  }
+  .research-pill-label {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: 1rem;
+  }
+  .research-pills {
+    display: flex; flex-wrap: wrap; gap: 0.6rem;
+  }
+  .pill {
+    padding: 0.35rem 0.85rem;
+    border: 1px solid var(--rule);
+    border-radius: 2rem;
+    font-size: 0.78rem;
+    color: var(--ink-light);
+    background: var(--bg-card);
+    transition: all 0.2s;
+  }
+  .pill:hover {
+    border-color: var(--accent-light);
+    color: var(--accent);
+    background: var(--accent-pale);
+  }
+  .stat-row {
+    display: grid; grid-template-columns: repeat(3, 1fr);
+    gap: 1px; background: var(--rule);
+    border: 1px solid var(--rule);
+    border-radius: 4px; overflow: hidden;
+    margin-top: 1rem;
+  }
+  .stat {
+    background: var(--bg-card);
+    padding: 1.2rem 1rem;
+    text-align: center;
+  }
+  .stat-num {
+    font-family: var(--serif);
+    font-size: 2rem;
+    font-weight: 500;
+    color: var(--accent);
+    line-height: 1;
+  }
+  .stat-label {
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+    margin-top: 0.3rem;
+    letter-spacing: 0.03em;
+  }
+
+  /* ── SECTIONS ── */
+  section {
+    padding: 6rem 8vw;
+  }
+  section + section { border-top: 1px solid var(--rule); }
+
+  .section-label {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.75rem;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+  .section-label::before {
+    content: '';
+    display: block; width: 1.5rem; height: 1px;
+    background: var(--accent);
+  }
+  .section-title {
+    font-family: var(--serif);
+    font-size: clamp(1.8rem, 3vw, 2.6rem);
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+  }
+  .section-intro {
+    color: var(--ink-light);
+    max-width: 640px;
+    margin-bottom: 3rem;
+    font-size: 0.97rem;
+  }
+
+  /* ── ABOUT / PI ── */
+  .about-grid {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 5rem;
+    align-items: start;
+  }
+  .pi-photo-wrap {
+    position: relative;
+  }
+  .pi-photo-wrap img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    display: block;
+    filter: grayscale(15%);
+    border-radius: 2px;
+  }
+  .pi-photo-tag {
+    position: absolute; bottom: -1px; left: 0; right: 0;
+    background: var(--accent);
+    color: white;
+    padding: 0.5rem 1rem;
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+  .pi-info h2 {
+    font-family: var(--serif);
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+  }
+  .pi-titles {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+  }
+  .pi-bio {
+    color: var(--ink-light);
+    line-height: 1.8;
+    margin-bottom: 2rem;
+    font-size: 0.97rem;
+  }
+  .affil-list {
+    display: flex; flex-direction: column; gap: 0.5rem;
+    margin-bottom: 2.5rem;
+  }
+  .affil-item {
+    display: flex; align-items: center; gap: 0.75rem;
+    font-size: 0.88rem;
+    color: var(--ink-light);
+  }
+  .affil-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--accent-light);
+    flex-shrink: 0;
+  }
+
+  /* experience timeline */
+  .timeline { position: relative; padding-left: 1.5rem; }
+  .timeline::before {
+    content: '';
+    position: absolute; left: 0; top: 0.4rem; bottom: 0;
+    width: 1px; background: var(--rule);
+  }
+  .timeline-item {
+    position: relative;
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+  }
+  .timeline-item::before {
+    content: '';
+    position: absolute; left: -1.5rem; top: 0.55rem;
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--bg);
+    border: 1.5px solid var(--accent-light);
+  }
+  .timeline-role {
+    font-weight: 500;
+    font-size: 0.92rem;
+    color: var(--ink);
+  }
+  .timeline-org {
+    font-size: 0.85rem;
+    color: var(--ink-light);
+  }
+  .timeline-year {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--ink-faint);
+    letter-spacing: 0.05em;
+    margin-top: 0.1rem;
+  }
+
+  /* ── RESEARCH GRID ── */
+  .research-areas {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 4rem;
+  }
+  .area-card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 1.75rem;
+    transition: box-shadow 0.2s, border-color 0.2s;
+  }
+  .area-card:hover {
+    border-color: var(--accent-light);
+    box-shadow: 0 4px 20px rgba(45,106,79,0.08);
+  }
+  .area-icon {
+    width: 36px; height: 36px;
+    background: var(--accent-pale);
+    border-radius: 6px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+  }
+  .area-title {
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    color: var(--ink);
+  }
+  .area-desc {
+    font-size: 0.83rem;
+    color: var(--ink-light);
+    line-height: 1.65;
+  }
+
+  /* ── PUBLICATIONS ── */
+  .pub-filter-row {
+    display: flex; gap: 0.5rem; flex-wrap: wrap;
+    margin-bottom: 2rem;
+  }
+  .filter-btn {
+    padding: 0.3rem 0.9rem;
+    border: 1px solid var(--rule);
+    border-radius: 2rem;
+    background: var(--bg-card);
+    font-size: 0.76rem;
+    cursor: pointer;
+    transition: all 0.15s;
+    font-family: var(--sans);
+    color: var(--ink-light);
+  }
+  .filter-btn.active, .filter-btn:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+  .pub-list { display: flex; flex-direction: column; gap: 0; }
+  .pub-item {
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    gap: 1.5rem;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--rule);
+    transition: background 0.15s;
+  }
+  .pub-item:hover { background: rgba(45,106,79,0.025); margin: 0 -1rem; padding-left: 1rem; padding-right: 1rem; border-radius: 3px; }
+  .pub-year {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    color: var(--ink-faint);
+    padding-top: 0.2rem;
+    letter-spacing: 0.05em;
+  }
+  .pub-content {}
+  .pub-title {
+    font-family: var(--serif);
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: var(--ink);
+    line-height: 1.4;
+    margin-bottom: 0.35rem;
+  }
+  .pub-title a {
+    color: inherit; text-decoration: none;
+    transition: color 0.15s;
+  }
+  .pub-title a:hover { color: var(--accent); }
+  .pub-authors {
+    font-size: 0.82rem;
+    color: var(--ink-light);
+    margin-bottom: 0.25rem;
+  }
+  .pub-journal {
+    font-size: 0.78rem;
+    color: var(--ink-faint);
+    font-style: italic;
+  }
+  .pub-tag {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 2px;
+    font-size: 0.68rem;
+    font-family: var(--mono);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-left: 0.4rem;
+    vertical-align: middle;
+  }
+  .tag-euglena { background: #d8f3dc; color: #2d6a4f; }
+  .tag-pm25 { background: #fde8e8; color: #9b2335; }
+  .tag-astro { background: #e8eafd; color: #3042a3; }
+  .tag-bee { background: #fef3c7; color: #92400e; }
+  .tag-mito { background: #f0e8fd; color: #5b21b6; }
+  .tag-ferm { background: #fff0d8; color: #8c4a0e; }
+
+  /* ── GRANTS ── */
+  .grant-list { display: flex; flex-direction: column; gap: 1rem; }
+  .grant-item {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 4px 4px 0;
+    padding: 1.2rem 1.5rem;
+  }
+  .grant-title { font-weight: 500; font-size: 0.92rem; margin-bottom: 0.35rem; }
+  .grant-meta { font-size: 0.8rem; color: var(--ink-faint); font-family: var(--mono); }
+
+  /* ── SKILLS ── */
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+  .skill-item {
+    display: flex; gap: 0.9rem; align-items: flex-start;
+    padding: 1rem;
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    background: var(--bg-card);
+  }
+  .skill-icon-wrap {
+    width: 32px; height: 32px; flex-shrink: 0;
+    border-radius: 4px;
+    background: var(--accent-pale);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.9rem;
+  }
+  .skill-text {}
+  .skill-name { font-weight: 600; font-size: 0.82rem; margin-bottom: 0.2rem; }
+  .skill-desc { font-size: 0.76rem; color: var(--ink-light); line-height: 1.5; }
+
+  /* ── JOIN ── */
+  .join-box {
+    background: var(--accent);
+    color: white;
+    border-radius: 6px;
+    padding: 3.5rem 4rem;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 3rem;
+    align-items: center;
+  }
+  .join-box h2 {
+    font-family: var(--serif);
+    font-size: 1.8rem;
+    font-weight: 400;
+    font-style: italic;
+    margin-bottom: 0.75rem;
+  }
+  .join-box p { font-size: 0.92rem; opacity: 0.85; line-height: 1.7; }
+  .join-types {
+    display: flex; flex-direction: column; gap: 0.5rem;
+    font-size: 0.84rem;
+    opacity: 0.9;
+  }
+  .join-type-item {
+    display: flex; align-items: center; gap: 0.5rem;
+  }
+  .join-type-item::before {
+    content: '→';
+    font-family: var(--mono);
+    font-size: 0.72rem;
+  }
+  .btn-white {
+    background: white;
+    color: var(--accent);
+    border: 1px solid white;
+    padding: 0.7rem 1.5rem;
+    font-size: 0.82rem;
+    font-weight: 500;
+    margin-top: 1.5rem;
+    display: inline-flex;
+    text-decoration: none;
+    border-radius: 3px;
+    transition: all 0.2s;
+    font-family: var(--sans);
+  }
+  .btn-white:hover { background: transparent; color: white; }
+
+  /* ── CONTACT ── */
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: start;
+  }
+  .contact-card {
+    background: var(--bg-card);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 2.5rem;
+  }
+  .contact-row {
+    display: flex; gap: 1rem; align-items: flex-start;
+    margin-bottom: 1.25rem;
+    font-size: 0.88rem;
+  }
+  .contact-label {
+    font-family: var(--mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    width: 70px;
+    flex-shrink: 0;
+    padding-top: 0.05rem;
+  }
+  .contact-val { color: var(--ink-light); }
+  .contact-val a { color: var(--accent); text-decoration: none; }
+  .contact-val a:hover { text-decoration: underline; }
+
+  /* ── ART ── */
+  .art-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1.2rem;
+  }
+  .art-item { position: relative; overflow: hidden; border-radius: 3px; }
+  .art-item img {
+    width: 100%; display: block;
+    aspect-ratio: 1;
+    object-fit: cover;
+    filter: grayscale(20%);
+    transition: transform 0.4s ease, filter 0.3s;
+  }
+  .art-item:hover img { transform: scale(1.04); filter: grayscale(0%); }
+  .art-caption {
+    position: absolute; bottom: 0; left: 0; right: 0;
+    background: linear-gradient(transparent, rgba(15,17,23,0.75));
+    color: white;
+    padding: 1.5rem 0.9rem 0.75rem;
+    font-size: 0.74rem;
+    font-style: italic;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .art-item:hover .art-caption { opacity: 1; }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 1px solid var(--rule);
+    padding: 2.5rem 8vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.78rem;
+    color: var(--ink-faint);
+    font-family: var(--mono);
+    letter-spacing: 0.04em;
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 900px) {
+    .hero { grid-template-columns: 1fr; min-height: auto; padding: 5rem 6vw 4rem; }
+    .hero-left { padding: 2rem 0; }
+    .hero-left::after { display: none; }
+    .hero-right { padding: 2rem 0; }
+    .about-grid { grid-template-columns: 1fr; }
+    .pi-photo-wrap { max-width: 280px; }
+    .join-box { grid-template-columns: 1fr; padding: 2rem; }
+    .contact-grid { grid-template-columns: 1fr; }
+    nav .nav-links { display: none; }
+    .stat-row { grid-template-columns: repeat(3,1fr); }
+  }
+
+  /* ── ANIMATIONS ── */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .hero-eyebrow  { animation: fadeUp 0.5s ease both 0.1s; }
+  .hero-title    { animation: fadeUp 0.5s ease both 0.22s; }
+  .hero-sub      { animation: fadeUp 0.5s ease both 0.34s; }
+  .hero-cta-row  { animation: fadeUp 0.5s ease both 0.46s; }
+  .hero-right    { animation: fadeUp 0.5s ease both 0.3s; }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <a class="nav-brand" href="#">SI Lab · CMU</a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#research">Research</a></li>
+    <li><a href="#publications">Publications</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#join">Join</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="top">
+  <div class="hero-left">
+    <div class="hero-eyebrow">Systems Integration Laboratory</div>
+    <h1 class="hero-title">
+      Investigating <em>'life'</em> via<br>
+      metabolic flux &amp;<br>
+      bioenergetic analyses
+    </h1>
+    <p class="hero-sub">
+      We integrate experimental and computational approaches to uncover how living systems function, adapt, and can be engineered for impact — connecting biology across scales.
+    </p>
+    <div class="hero-cta-row">
+      <a href="#research" class="btn btn-primary">Explore Research</a>
+      <a href="#join" class="btn btn-outline">Join the Lab</a>
+    </div>
+  </div>
+  <div class="hero-right">
+    <div class="research-pill-label">Active Research Areas</div>
+    <div class="research-pills">
+      <span class="pill">Euglena gracilis</span>
+      <span class="pill">Metabolic Modelling</span>
+      <span class="pill">PM2.5 &amp; Cancer</span>
+      <span class="pill">Astrobiology</span>
+      <span class="pill">Fermentation Science</span>
+      <span class="pill">Honeybee Microbiome</span>
+      <span class="pill">Bioenergetics</span>
+      <span class="pill">Multi-omics</span>
+      <span class="pill">Carbon Capture</span>
+    </div>
+    <div class="stat-row">
+      <div class="stat">
+        <div class="stat-num">20+</div>
+        <div class="stat-label">Publications</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">5</div>
+        <div class="stat-label">Active Grants</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">6</div>
+        <div class="stat-label">Research Themes</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT / PI -->
+<section id="about">
+  <div class="section-label">Principal Investigator</div>
+  <div class="about-grid">
+    <div>
+      <div class="pi-photo-wrap">
+        <img src="https://github.com/user-attachments/assets/142bc4a3-28b7-44e0-a5de-546b9f31dc9f" alt="Sahutchai Inwongwan">
+        <div class="pi-photo-tag">Sahutchai Inwongwan · DPhil Oxford</div>
+      </div>
+    </div>
+    <div class="pi-info">
+      <h2>Sahutchai Inwongwan</h2>
+      <div class="pi-titles">Scientist · Biologist · Biochemist</div>
+      <div class="affil-list">
+        <div class="affil-item"><div class="affil-dot"></div>Lecturer in Systems Biology, Dept. of Biology, Chiang Mai University, Thailand</div>
+        <div class="affil-item"><div class="affil-dot"></div>Honorary Research Fellow, GEE, University College London, UK</div>
+        <div class="affil-item"><div class="affil-dot"></div>DPhil, Dept. of Plant Sciences, University of Oxford, UK</div>
+      </div>
+      <p class="pi-bio">
+        Sahutchai's DPhil at Oxford explored the capacities of the <em>Euglena</em> metabolic network using metabolic flux analysis. 
+        He subsequently held a research fellowship at University College London studying mitonuclear incompatibility in <em>Drosophila</em>, 
+        before returning to Chiang Mai University to establish the Systems Integration Laboratory.
+      </p>
+
+      <div class="section-label" style="margin-bottom:1.25rem;">Experience</div>
+      <div class="timeline">
+        <div class="timeline-item">
+          <div class="timeline-role">Research Fellow</div>
+          <div class="timeline-org">University College London — Mitonuclear incompatibility in <em>Drosophila</em></div>
+          <div class="timeline-year">2020–2022 · London, UK</div>
+        </div>
+        <div class="timeline-item">
+          <div class="timeline-role">Policy Development Intern</div>
+          <div class="timeline-org">National Science Research and Innovation Policy Council — BCG Economy Model</div>
+          <div class="timeline-year">2019 · Thailand</div>
+        </div>
+        <div class="timeline-item">
+          <div class="timeline-role">Biological Practice Demonstrator</div>
+          <div class="timeline-org">University of Oxford</div>
+          <div class="timeline-year">2017–2020 · Oxford, UK</div>
+        </div>
+        <div class="timeline-item">
+          <div class="timeline-role">Research Intern</div>
+          <div class="timeline-org">Biological Modelling Laboratory, KMUTT — Systems biology &amp; bioinformatics</div>
+          <div class="timeline-year">2016 · Thailand</div>
+        </div>
+        <div class="timeline-item">
+          <div class="timeline-role">Research Intern</div>
+          <div class="timeline-org">Cattolico Laboratory, University of Washington — Algae–bacteria interactions</div>
+          <div class="timeline-year">2014 · Seattle, USA</div>
+        </div>
+        <div class="timeline-item">
+          <div class="timeline-role">JENESYS 2.0 Program</div>
+          <div class="timeline-org">Government of Japan — Science &amp; Technology</div>
+          <div class="timeline-year">2014 · Japan</div>
+        </div>
+        <div class="timeline-item">
+          <div class="timeline-role">Intern</div>
+          <div class="timeline-org">National Center for Genetic Engineering and Biotechnology — Cassava gene expression</div>
+          <div class="timeline-year">2012 · Thailand</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RESEARCH -->
+<section id="research">
+  <div class="section-label">Research</div>
+  <h2 class="section-title">Research Areas</h2>
+  <p class="section-intro">Our lab operates at the intersection of experimental biology and computational modelling, tackling fundamental and applied questions across six interconnected themes.</p>
+
+  <div class="research-areas">
+    <div class="area-card">
+      <div class="area-icon">🌿</div>
+      <div class="area-title">Euglena gracilis — Metabolic Modelling</div>
+      <div class="area-desc">Genome-scale metabolic modelling and network optimisation for carbon capture, beta-glucan production, shikimate-derived products, and industrial biofactory applications.</div>
+    </div>
+    <div class="area-card">
+      <div class="area-icon">⚡</div>
+      <div class="area-title">Organelle Bioenergetics</div>
+      <div class="area-desc">Mitochondria–chloroplast coordination in <em>Euglena</em>; bioenergetic synergy, metabolic adaptation, and mitonuclear interactions in <em>Drosophila</em>.</div>
+    </div>
+    <div class="area-card">
+      <div class="area-icon">🌫️</div>
+      <div class="area-title">PM2.5 &amp; Lung Cancer</div>
+      <div class="area-desc">Multi-omics analysis of biomass-haze PM2.5 exposure in non-small cell lung cancer cells; oxidative stress, transcriptomic remodelling, and therapy resistance.</div>
+    </div>
+    <div class="area-card">
+      <div class="area-icon">🚀</div>
+      <div class="area-title">Astrobiology &amp; Astrobioinnovation</div>
+      <div class="area-desc">Genome-scale metabolic modelling of extremophiles; physiology of organisms in space-analog conditions and its biotechnological applications.</div>
+    </div>
+    <div class="area-card">
+      <div class="area-icon">🍯</div>
+      <div class="area-title">Fermentation Science</div>
+      <div class="area-desc">Physicochemical and biological characterisation of fermented beverages (mead); new fermentation processes and microbial strategies for high-value products.</div>
+    </div>
+    <div class="area-card">
+      <div class="area-icon">🐝</div>
+      <div class="area-title">Honeybee Microbiome</div>
+      <div class="area-desc">Metabolic modelling of honeybee gut microbiome; leveraging gut symbionts for pollinator health, bee growth, and bioresource potential.</div>
+    </div>
+  </div>
+
+  <!-- Active Grants -->
+  <div class="section-label" style="margin-bottom:1.25rem;">Active Grants</div>
+  <div class="grant-list">
+    <div class="grant-item">
+      <div class="grant-title">Metabolic response and gene expression changes induced by local PM2.5 exposure in non-small cell lung cancer cells</div>
+      <div class="grant-meta">National Research Council of Thailand (Fundamental Fund) · 2023–ongoing</div>
+    </div>
+    <div class="grant-item">
+      <div class="grant-title">Developing a metabolic model of Euglena for beta-glucan production optimisation</div>
+      <div class="grant-meta">National Research Council of Thailand (Fundamental Fund) · 2023–ongoing</div>
+    </div>
+    <div class="grant-item">
+      <div class="grant-title">Enhancing carbon capture and biomass production of Euglena using mixotrophic metabolic processes with high redox potential substrates</div>
+      <div class="grant-meta">The Murata Science Foundation (MSF) · 2023–ongoing</div>
+    </div>
+    <div class="grant-item">
+      <div class="grant-title">Unlocking the potential of Euglena gracilis as a host for shikimate-derived products through integrated metabolic modelling</div>
+      <div class="grant-meta">National Research Council of Thailand · 2023–ongoing</div>
+    </div>
+    <div class="grant-item">
+      <div class="grant-title">Exploring the metabolic potential of Williamsia marianensis using genome-scale metabolic model</div>
+      <div class="grant-meta">Chiang Mai University · 2023–ongoing</div>
+    </div>
+  </div>
+</section>
+
+<!-- PUBLICATIONS -->
+<section id="publications">
+  <div class="section-label">Publications</div>
+  <h2 class="section-title">Selected Publications</h2>
+  <p class="section-intro">Selected peer-reviewed articles, preprints, and theses. For a full list, see <a href="https://scholar.google.com" style="color:var(--accent)">Google Scholar</a>.</p>
+
+  <div class="pub-filter-row">
+    <button class="filter-btn active" onclick="filterPubs('all',this)">All</button>
+    <button class="filter-btn" onclick="filterPubs('euglena',this)">Euglena</button>
+    <button class="filter-btn" onclick="filterPubs('pm25',this)">PM2.5</button>
+    <button class="filter-btn" onclick="filterPubs('mito',this)">Bioenergetics</button>
+    <button class="filter-btn" onclick="filterPubs('astro',this)">Astrobiology</button>
+    <button class="filter-btn" onclick="filterPubs('bee',this)">Bees</button>
+    <button class="filter-btn" onclick="filterPubs('ferm',this)">Fermentation</button>
+  </div>
+
+  <div class="pub-list">
+
+    <div class="pub-item" data-tags="euglena mito">
+      <div class="pub-year">2026</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.1093/plphys/kiag054" target="_blank">Coordinating photosynthesis and respiration: Evolution and functional integration of mitochondria and chloroplasts in algae</a><span class="pub-tag tag-euglena">Euglena</span><span class="pub-tag tag-mito">Bioenergetics</span></div>
+        <div class="pub-authors">Sitthisak Intarasit, <strong>Sahutchai Inwongwan</strong></div>
+        <div class="pub-journal">Plant Physiology, 2026</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="euglena">
+      <div class="pub-year">2026</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.1007/s10811-025-03777-6" target="_blank">Ethanol valorization as dual-purpose carbon source enhances biomass and paramylon production in non-axenic Euglena gracilis biorefinery</a><span class="pub-tag tag-euglena">Euglena</span></div>
+        <div class="pub-authors">Duangjan, K., Pekkoh, J., Sensupa, P., <strong>Inwongwan, S.</strong>, et al.</div>
+        <div class="pub-journal">Journal of Applied Phycology, 2026</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="euglena">
+      <div class="pub-year">2026</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.1016/j.biteb.2025.102438" target="_blank">Beyond photosynthesis: Harnessing heterotrophic CO₂ fixation in Euglena gracilis for next-generation carbon capture and circular biomanufacturing</a><span class="pub-tag tag-euglena">Euglena</span></div>
+        <div class="pub-authors"><strong>Inwongwan, S.</strong></div>
+        <div class="pub-journal">Bioresource Technology Reports, 2026</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="pm25">
+      <div class="pub-year">2025</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.3390/toxics14010021" target="_blank">Biomass-Haze PM2.5 from Northern Thailand Drives Genotype-Specific Oxidative Stress and Transcriptomic Remodeling in Non-Small-Cell Lung Cancer Cells</a><span class="pub-tag tag-pm25">PM2.5</span></div>
+        <div class="pub-authors">Prommana, S., Intarasit, S., Thongyim, S., …, <strong>Inwongwan, S.</strong></div>
+        <div class="pub-journal">Toxics, 14(1), 21, 2025</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="pm25">
+      <div class="pub-year">2025</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.3390/toxics13060484" target="_blank">Acute PM2.5 Exposure in Distinct NSCLC Cell Lines Reveals Strong Oxidative Stress and Therapy Resistance Signatures Through Transcriptomic Analysis</a><span class="pub-tag tag-pm25">PM2.5</span></div>
+        <div class="pub-authors">Panya, A., Thongyim, S., Sattayawat, P., &amp; <strong>Inwongwan, S.</strong></div>
+        <div class="pub-journal">Toxics, 13(6), 484, 2025</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="euglena">
+      <div class="pub-year">2025</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.1016/j.algal.2025.104148" target="_blank">Ethanol-driven mixotrophic cultivation enhances biomass production and CO₂ capture in Euglena gracilis for sustainable bioresource utilisation</a><span class="pub-tag tag-euglena">Euglena</span></div>
+        <div class="pub-authors"><strong>Inwongwan, S.</strong>, Duangjan, K., Sensupa, P., et al.</div>
+        <div class="pub-journal">Algal Research, 2025</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="euglena">
+      <div class="pub-year">2025</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.3390/plants14111580" target="_blank">Metabolomic Insights into the Adaptations and Biotechnological Potential of Euglena gracilis Under Different Trophic Conditions</a><span class="pub-tag tag-euglena">Euglena</span></div>
+        <div class="pub-authors"><strong>Inwongwan, S.*</strong>, Sriwari, S., &amp; Pumas, C.</div>
+        <div class="pub-journal">Plants, 14(11), 1580, 2025</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="ferm">
+      <div class="pub-year">2025</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.3390/fermentation11040190" target="_blank">Comparative Analysis of Physicochemical and Biological Activities of Meads from Five Mekong Region Honeys Pre- and Post-Fermentation</a><span class="pub-tag tag-ferm">Fermentation</span></div>
+        <div class="pub-authors">Inwongwan, S., Kitcharoen, T., Wongsasuk, P., et al.</div>
+        <div class="pub-journal">Fermentation, 11(4), 190, 2025</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="astro">
+      <div class="pub-year">2024</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.1111/1758-2229.13231" target="_blank">Genome‐scale metabolic modelling of extremophiles and its applications in astrobiological environments</a><span class="pub-tag tag-astro">Astrobiology</span></div>
+        <div class="pub-authors">Noirungsee, N., Changkhong, S., Phinyo, K., …, <strong>Inwongwan, S.</strong></div>
+        <div class="pub-journal">Environmental Microbiology Reports, 2024</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="mito">
+      <div class="pub-year">2024</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.1098/rsbl.2023.0375" target="_blank">Mitonuclear interactions modulate nutritional preference</a><span class="pub-tag tag-mito">Bioenergetics</span></div>
+        <div class="pub-authors">Camus, M.F. and <strong>Inwongwan, S.</strong></div>
+        <div class="pub-journal">Biology Letters, 19(12), 2024</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="bee">
+      <div class="pub-year">2024</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.3390/insects15050369" target="_blank">Engineering Gut Symbionts: A Way to Promote Bee Growth?</a><span class="pub-tag tag-bee">Bees</span></div>
+        <div class="pub-authors">Sattayawat, P., <strong>Inwongwan, S.</strong>, Noirungsee, N., et al.</div>
+        <div class="pub-journal">Insects, 2024</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="euglena">
+      <div class="pub-year">2023</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.3389/fmicb.2023.1143770" target="_blank">Metabolic network reconstruction of Euglena gracilis: Current state, challenges, and applications</a><span class="pub-tag tag-euglena">Euglena</span></div>
+        <div class="pub-authors">Inwongwan, S., Pekkoh, J., Pumas, C. &amp; Sattayawat, P.</div>
+        <div class="pub-journal">Frontiers in Microbiology, 2023</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="mito">
+      <div class="pub-year">2023</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.26124/mitofit:2023-0004" target="_blank">Harmonising protocols to measure Drosophila respiratory function in mitochondrial preparations</a><span class="pub-tag tag-mito">Bioenergetics</span></div>
+        <div class="pub-authors">Rodríguez, E., Bettinazzi, S., <strong>Inwongwan, S.</strong>, Camus, M.F., Lane, N.</div>
+        <div class="pub-journal">MitoFit Preprints, 2023.4</div>
+      </div>
+    </div>
+
+    <div class="pub-item" data-tags="euglena">
+      <div class="pub-year">2019</div>
+      <div class="pub-content">
+        <div class="pub-title"><a href="https://doi.org/10.3390/metabo9060115" target="_blank">Euglena central metabolic pathways and their subcellular locations</a><span class="pub-tag tag-euglena">Euglena</span></div>
+        <div class="pub-authors"><strong>Inwongwan, S.</strong>, Kruger, N.J., Ratcliffe, R.G. &amp; O'Neill, E.C.</div>
+        <div class="pub-journal">Metabolites, 9(6), 115, 2019</div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+  <div class="section-label">Expertise</div>
+  <h2 class="section-title">Key Skills</h2>
+  <p class="section-intro">Spanning wet-lab experimentation, computational modelling, and advanced analytics.</p>
+  <div class="skills-grid">
+    <div class="skill-item">
+      <div class="skill-icon-wrap">🔬</div>
+      <div class="skill-text">
+        <div class="skill-name">Systems Biology &amp; Multi-Omics</div>
+        <div class="skill-desc">Multi-modal integration of transcriptomic, metabolomic, and proteomic datasets for network reconstruction.</div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-icon-wrap">🧮</div>
+      <div class="skill-text">
+        <div class="skill-name">Metabolic Engineering &amp; Fluxomics</div>
+        <div class="skill-desc">Genome-Scale Metabolic Modeling (GSMM), COBRA toolbox, Metabolic Flux Analysis (MFA).</div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-icon-wrap">⚗️</div>
+      <div class="skill-text">
+        <div class="skill-name">Analytical Chemistry (GC-MS/LC-MS)</div>
+        <div class="skill-desc">High-precision metabolite profiling, biomass characterization, and natural product identification.</div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-icon-wrap">🦠</div>
+      <div class="skill-text">
+        <div class="skill-name">Algal &amp; Microbial Biotechnology</div>
+        <div class="skill-desc">Photoautotrophic and mixotrophic cultivation optimisation for <em>Euglena gracilis</em>.</div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-icon-wrap">🧬</div>
+      <div class="skill-text">
+        <div class="skill-name">Molecular Biology</div>
+        <div class="skill-desc">NGS library preparation, RNA-seq, qPCR, and advanced cloning strategies.</div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-icon-wrap">🔭</div>
+      <div class="skill-text">
+        <div class="skill-name">Advanced Bio-Imaging</div>
+        <div class="skill-desc">Confocal, fluorescence, and electron microscopy (SEM/TEM); FACS cytometry.</div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-icon-wrap">⚡</div>
+      <div class="skill-text">
+        <div class="skill-name">Organelle Bioenergetics</div>
+        <div class="skill-desc">Mitonuclear coordination analysis and photosynthesis–respiration trade-off quantification.</div>
+      </div>
+    </div>
+    <div class="skill-item">
+      <div class="skill-icon-wrap">🏭</div>
+      <div class="skill-text">
+        <div class="skill-name">Bioprocess Development</div>
+        <div class="skill-desc">Scale-up and downstream processing for algal biomass and fermentation products.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- JOIN -->
+<section id="join" style="padding-bottom:6rem;">
+  <div class="join-box">
+    <div>
+      <h2>Join the SI Lab</h2>
+      <p style="margin-bottom:0.5rem;">The SI Lab is a highly interdisciplinary space where biologists, chemists, computational scientists, and engineers work together on cutting-edge questions in systems biology.</p>
+      <a href="mailto:sahutchai.inwongwan@cmu.ac.th" class="btn-white">Get in Touch →</a>
+    </div>
+    <div class="join-types">
+      <div class="join-type-item">Undergraduate &amp; graduate students</div>
+      <div class="join-type-item">Postdoctoral researchers (multi-omics / modelling)</div>
+      <div class="join-type-item">Academic &amp; industry collaborators</div>
+      <div class="join-type-item">International institutional partners</div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" style="padding-top:0; border-top:none;">
+  <div class="section-label">Contact</div>
+  <h2 class="section-title">Get in Touch</h2>
+  <div class="contact-grid">
+    <div class="contact-card">
+      <div class="contact-row">
+        <div class="contact-label">Name</div>
+        <div class="contact-val">Sahutchai Inwongwan, DPhil</div>
+      </div>
+      <div class="contact-row">
+        <div class="contact-label">Title</div>
+        <div class="contact-val">Lecturer in Systems Biology</div>
+      </div>
+      <div class="contact-row">
+        <div class="contact-label">Room</div>
+        <div class="contact-val">BB2406, Dept. of Biology, Faculty of Science</div>
+      </div>
+      <div class="contact-row">
+        <div class="contact-label">Address</div>
+        <div class="contact-val">Chiang Mai University, 239 Huay Keaw Rd, Tambon Su Thep, Mueang, Chiang Mai 50200, Thailand</div>
+      </div>
+      <div class="contact-row">
+        <div class="contact-label">Email</div>
+        <div class="contact-val">
+          <a href="mailto:sahutchai.inwongwan@cmu.ac.th">sahutchai.inwongwan@cmu.ac.th</a><br>
+          <a href="mailto:s.inwongwan@ucl.ac.uk">s.inwongwan@ucl.ac.uk</a>
+        </div>
+      </div>
+      <div class="contact-row">
+        <div class="contact-label">Tel</div>
+        <div class="contact-val"><a href="tel:+66821972128">+66 82 197 2128</a></div>
+      </div>
+    </div>
+    <div>
+      <div class="section-label" style="margin-bottom:1.25rem;">Art Projects</div>
+      <p style="font-size:0.9rem;color:var(--ink-light);margin-bottom:1.5rem;line-height:1.75;">
+        Beyond the lab, Sahutchai works with sculpture and expired 35mm black &amp; white film photography — a counterpoint to the precision of systems biology.
+      </p>
+      <div class="art-grid">
+        <div class="art-item">
+          <img src="https://user-images.githubusercontent.com/77986547/166148973-b247c06c-0b85-4042-a590-12fdbff6ca1e.jpg" alt="Hugging Gourd">
+          <div class="art-caption">Hugging Gourd · London, 2021</div>
+        </div>
+        <div class="art-item">
+          <img src="https://github.com/user-attachments/assets/28dc3e90-b9e6-4560-bc12-39a1d82798cd" alt="Branches and birds">
+          <div class="art-caption">Branches and birds · Hyde Park, 2020</div>
+        </div>
+        <div class="art-item">
+          <img src="https://github.com/user-attachments/assets/8967958f-7730-4881-9590-46274cd77e59" alt="Soft light">
+          <div class="art-caption">Soft light · Gray's Inn Road, 2020</div>
+        </div>
+        <div class="art-item">
+          <img src="https://github.com/user-attachments/assets/3eae76f8-4015-492b-bf0f-f8cfe696c9c9" alt="Dim light">
+          <div class="art-caption">Dim light · York, 2017</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span>© 2025 Systems Integration Laboratory · Chiang Mai University</span>
+  <span>sahutchai.inwongwan@cmu.ac.th</span>
+</footer>
+
+<script>
+  function filterPubs(tag, btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    document.querySelectorAll('.pub-item').forEach(item => {
+      if (tag === 'all') { item.style.display = ''; return; }
+      const tags = item.dataset.tags || '';
+      item.style.display = tags.includes(tag) ? '' : 'none';
+    });
+  }
+</script>
+</body>
+</html>
