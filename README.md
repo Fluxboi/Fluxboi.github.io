@@ -120,15 +120,25 @@ Our current research focuses include:
 
 ## Key Skills
 •	Systems Biology & Multi-Omics: Multi-modal integration of transcriptomic, metabolomic, and proteomic datasets for biological network reconstruction.
+
 •	Metabolic Engineering & Fluxomics: Expertise in Genome-Scale Metabolic Modeling (GSMM), COBRA toolbox, and Metabolic Flux Analysis (MFA).
+
 •	Analytical Chemistry (GC-MS/LC-MS): High-precision metabolite profiling, biomass characterization, and natural product identification.
+
 •	Organelle Bioenergetics: Specialized analysis of mitonuclear coordination and photosynthesis-respiration trade-offs.
+
 •	Algal & Microbial Biotechnology: Optimization of photoautotrophic and mixotrophic cultivation for Euglena gracilis and high-value metabolite synthesis.
+
 •	Molecular Biology: Mastery of NGS library preparation, RNA-seq, qPCR, and advanced cloning strategies.
+
 •	Advanced Bio-Imaging: Subcellular analysis via Confocal, Fluorescence, and Electron Microscopy (SEM/TEM).
+
 •	Cytometry: High-throughput cellular characterization and FACS (Fluorescence-Activated Cell Sorting).
+
 •	Bioprocess Development: Scale-up and downstream processing for algal biomass and fermentation products (e.g., mead).
+
 •	Model Organism Research: Experimental design for Drosophila, microalgae, plants, and microbial systems.
+
 •	Environmental Sampling: Aquatic field research and monitoring of environmental stressors on biological systems.
 
 ---
