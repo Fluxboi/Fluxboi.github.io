@@ -119,31 +119,17 @@ Our current research focuses include:
 ---
 
 ## Key Skills
-•	Systems Biology: Expertise in integrating biological data to understand complex biological systems.
-
-•	Metabolic Pathway Analysis: Capable of mapping and analyzing metabolic pathways to identify key bioenergetic processes.
-
-•	Genome-Scale Metabolic Modeling and Metabolic flux analysis: Proficiency in constructing and analyzing genome-scale metabolic models to optimize metabolic processes.
-
-•	Chemical Biomass Composition Analysis (GC-MS): Proficiency in gas chromatography-mass spectrometry for analyzing biochemical compositions of biomass.
-
-•	Algae Cultivation: Skilled in cultivating algae under various conditions, essential for optimizing E. gracilis growth.
-
-•	Advanced Microscopy: Experience with fluorescence microscopy, confocal microscopy, and electron microscopy for detailed cellular analysis.
-
-•	Flow Cytometry: Proficient in cell counting and biomarker detection, facilitating cellular characterization and sorting.
-
-•	Algal Product Development: Background in developing commercial products from algal biomass, applicable to high-value product synthesis.
-
-•	Metabolomics: Skilled in metabolite profiling to understand cellular metabolism and biochemical changes.
-
-•	Transcriptomics: Expertise in gene expression analysis, including RNA sequencing and qPCR, to study gene regulatory networks.
-
-•	Molecular Biology Techniques: Familiar with a range of molecular techniques, including DNA/RNA extraction, cloning, and PCR.
-
-•	Aquatic Field Research: Skilled in field research related to aquatic environments, supporting the practical aspects of algal cultivation and sampling.
-
-•	Drosophila, algal, plant and microbial experiments
+•	Systems Biology & Multi-Omics: Multi-modal integration of transcriptomic, metabolomic, and proteomic datasets for biological network reconstruction.
+•	Metabolic Engineering & Fluxomics: Expertise in Genome-Scale Metabolic Modeling (GSMM), COBRA toolbox, and Metabolic Flux Analysis (MFA).
+•	Analytical Chemistry (GC-MS/LC-MS): High-precision metabolite profiling, biomass characterization, and natural product identification.
+•	Organelle Bioenergetics: Specialized analysis of mitonuclear coordination and photosynthesis-respiration trade-offs.
+•	Algal & Microbial Biotechnology: Optimization of photoautotrophic and mixotrophic cultivation for Euglena gracilis and high-value metabolite synthesis.
+•	Molecular Biology: Mastery of NGS library preparation, RNA-seq, qPCR, and advanced cloning strategies.
+•	Advanced Bio-Imaging: Subcellular analysis via Confocal, Fluorescence, and Electron Microscopy (SEM/TEM).
+•	Cytometry: High-throughput cellular characterization and FACS (Fluorescence-Activated Cell Sorting).
+•	Bioprocess Development: Scale-up and downstream processing for algal biomass and fermentation products (e.g., mead).
+•	Model Organism Research: Experimental design for Drosophila, microalgae, plants, and microbial systems.
+•	Environmental Sampling: Aquatic field research and monitoring of environmental stressors on biological systems.
 
 ---
 
